@@ -2,7 +2,7 @@
 [u][b][size=14pt]     [color=#AF7817]General Goldcoin [GLD] Information:[/color]     [/size][/b][/u]
 
 [center]| [iurl=#op_info]Information[/iurl] | [iurl=#op_specs]Technical Specifications[/iurl] | [iurl=#op_start]Get Started[/iurl] | [iurl=#op_sites]Official Sites[/iurl] | [iurl=#op_dev]Development Channels[/iurl] | [iurl=#op_media]Social Media[/iurl] |
-| [iurl=#op_explorers]Block Explorers[/iurl] | [iurl=#op_mining]Mining[/iurl] | [iurl=#op_exchanges]Exchanges[/iurl] | [iurl=#op_rti]Research Tools & Indexes[/iurl] | [iurl=#op_news]GLD News[/iurl] | [iurl=#op_bounties]GLD Bounty Listing[/iurl] |[/center]
+| [iurl=#op_explorers]Block Explorers[/iurl] | [iurl=#op_mining]Mining[/iurl] | [iurl=#op_exchanges]Exchanges[/iurl] | [iurl=#op_rti]Research Tools & Indexes[/iurl] | [iurl=#op_bounties]GLD Bounty Listing[/iurl] |[/center]
 
 [hr]
 
@@ -210,13 +210,9 @@ Update: The Windows 0.7.2.0 client below has just been released. It is highly re
 
 [size=12pt][b][/b][/size]
 
-[url=https://www.cryptsy.com/markets/view/30][size=12pt][b]Cryptsy.com[/b][/size][/url]
-
 [url=https://www.cryptopia.co.nz/Exchange?market=GLD_BTC][size=12pt][b]Cryptopia.co.nz[/b][/size][/url]
 
-[url=https://www.coingather.com/exchange/GLD/BTC][size=12pt][b]CoinGather.com[/b][/size][/url]
-
-[url=https://btcpool.exchange/Market?pair=GLD/BTC][size=12pt][b]BTCpool.exchange[/b][/size][/url]
+[url=https://c-cex.com/?p=gld-btc][size=12pt][b]c-cex.com[/b][/size][/url]
 
 [right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
 [hr]
@@ -229,8 +225,6 @@ Update: The Windows 0.7.2.0 client below has just been released. It is highly re
    [/td]
    [td]
 [url=http://www.worldcoinindex.com/coin/GoldCoin]World Coin Index            [/url]
-
-[url=http://www.cryptocoinrank.com/Goldcoin]Crypto Coin Rank[/url]
 
 [url=http://coinmarketcap.com/currencies/goldcoin/]Coin Market Cap[/url]
 
@@ -257,33 +251,17 @@ Update: The Windows 0.7.2.0 client below has just been released. It is highly re
 
 [right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
 [hr]
-[anchor=op_news][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
-[img]https://i.imgur.com/yvkgZIr.png[/img]
-
-[b][u][size=14pt]          [color=#AF7817]News Reports:[/color]          [/size][/u][/b]
-
-[url=http://altcoinpress.com/2015/10/insider-secrets-to-building-a-truly-great-altcoin/]2015-10-03 ~ Insider Secrets to Building a Truly Great Altcoin[/url]
-[url=http://altcoinpress.com/2015/07/goldcoin-invention-promises-to-give-altcoin-strip-miners-the-hose/]2015-07-08 ~ Goldcoin Invention Promises to ‘Hose Off’ Strip Mining Crypto Pirates[/url]
-[url=http://altcoinpress.com/2015/05/goldcoin-gld-considers-network-fee-to-boost-community-participation/]2015-05-09 ~ Goldcoin (GLD) Considers Network Fee to Boost Community Participation[/url]
-[url=http://web.archive.org/web/20150127223749/http://crypt.la/2014/12/16/future-goldcoin-altcoins-general]2014-12-14 ~ Interview with Lead Developer aka Akumaburn[/url]
-[url=http://altcoinpress.com/2014/10/south-african-businessman-to-host-goldcoin-conference-series/]2014-10-14 ~ South African Businessman to Host Goldcoin Conference Series[/url]
-[url=http://altcoinpress.com/2014/11/the-currency-most-likely-to-challenge-bitcoin-for-consumer-adoption/]2014-11-19 ~ The Currency Most Likely to Challenge Bitcoin for Consumer Adoption[/url]
-[url=http://altcoinpress.com/2014/10/goldcoin-scientist-set-to-release-mysterious-java-client/]2014-10-08 ~ Goldcoin Scientist Set to Release Mysterious Java Client[/url]
-[url=http://altcoinpress.com/2014/08/goldcoin-gld-nears-one-month-high-amidst-chaos/]2014-08-31 ~ Goldcoin (GLD) Nears One-Month High Amidst Chaos[/url]
-[url=http://altcoinpress.com/2014/04/java-client-to-put-multiple-coins-into-a-single-wallet/]2014-04-08 ~ Goldcoin Developer to Put Multiple Coins Into a Single Wallet[/url]
-[url=http://altcoinpress.com/2014/03/irs-ruling-supports-digital-gold-argument/]2014-03-31 ~ IRS Ruling Favors Bitcoin’s Status as “Digital Gold”[/url]
-
-
-[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
-[hr]
 [anchor=op_bounties][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
 [img]https://i.imgur.com/fHP76RQ.png[/img]
 
-[b][u][size=14pt]          [color=#AF7817]Bounty Listing:[/color]          [/size][/u][/b]
-
-[url=https://www.gldtalk.org/index.php?topic=3204.msg14154#msg14154][img]https://i.imgur.com/uBD3IQK.png[/img][/url]
+[b][u][size=14pt][color=#AF7817] Open Workforce Projects [/color][/size][/u][/b]
+ [table][tr][td]
+ [/td]
+ [td]
+[url=https://www.gldtalk.org/index.php?topic=3186.0]>   GoldCoin (GLD) Open Workforce[/url]
+ [/td][/tr][/table]
 
 [hr][anchor=op_footer]
 [center]| [iurl=#op_info]Information[/iurl] | [iurl=#op_specs]Technical Specifications[/iurl] | [iurl=#op_start]Get Started[/iurl] | [iurl=#op_sites]Official Sites[/iurl] | [iurl=#op_dev]Development Channels[/iurl] | [iurl=#op_media]Social Media[/iurl] |
-| [iurl=#op_explorers]Block Explorers[/iurl] | [iurl=#op_mining]Mining[/iurl] | [iurl=#op_exchanges]Exchanges[/iurl] | [iurl=#op_rti]Research Tools & Indexes[/iurl] | [iurl=#op_news]GLD News[/iurl] | [iurl=#op_bounties]GLD Bounty Listing[/iurl] |
+| [iurl=#op_explorers]Block Explorers[/iurl] | [iurl=#op_mining]Mining[/iurl] | [iurl=#op_exchanges]Exchanges[/iurl] | [iurl=#op_rti]Research Tools & Indexes[/iurl] | [iurl=#op_bounties]GLD Bounty Listing[/iurl] |
 [url=http://www.gldcoin.com/][IMG height=32 width=64]http://www.gldcoin.com/wp-content/themes/hyperion/images/logo2.png[/img][/url][/center]
