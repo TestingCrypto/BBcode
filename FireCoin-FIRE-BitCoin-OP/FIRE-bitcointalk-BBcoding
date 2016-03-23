@@ -1,0 +1,253 @@
+[anchor=op_top][center]
+[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Thursday, March 12, 2015 ~~
+**Rebuilding FIRE one branch @ a time, help keep FIRE stable & innovative**
+- FIRE v4.0.1 Release (updated graphics)
+- FIRE on YoBit.Net[/color][/font][/b][/size]
+
+[img]http://oi62.tinypic.com/saz02q.jpg[/img]
+[url=http://tech-commons.wix.com/fire-coin-community][IMG]https://i.imgur.com/gDIGDiR.png[/img][/url]
+
+[b]
+~Fire Coin is an X15 to PoS coin.
+~It's in the PoS only stage.
+
+~The original developer (Carson K.) & the second development team (tom14cat14, s3cr3t1, DrSnAzZy, CryptocoinTools) have left FIRE. Thank you for the efforts you made to build FIRE. Also a thanks to Earlz for testing with FIRE, as well as any others forking FIRE to launch other coins. Looks like edn247 also tried to help FIRE with an update, making FIRE PoW & PoS again? A true community coin since launch, lets show the world FIRE wasn't a wasted resource ;)
+[/b]
+
+[hr]
+[center][iurl=#op_top][IMG height=20 width=20]https://i.imgur.com/FWtyQd0.png[/img][/iurl]   [IMG height=20 width=120]http://oi62.tinypic.com/saz02q.jpg[/img]   [iurl=#op_bottom][IMG height=20 width=20]https://i.imgur.com/MU69KMv.png[/img][/iurl][/center]
+[hr]
+
+ [table][tr][td]
+ [/td]
+ [td]
+
+[b][i][u][size=14pt][color=#B43104]          Specifications          [/color][/size][/u][/i][/b]
+
+[b]
+Fire Coin Ticker: FIRE
+RPC Port: 49698 P2P Port: 49697
+PoS Started on Block 4000
+PoS Minimal Stake Age: 1 hour //15 Blocks
+1% Annual PoS Interest
+Max Coins > PoS: ~150,000
+
+ [/td]
+ [td]
+
+[b][i][u][size=14pt][color=#B43104]            NODES            [/color][/size][/u][/i][/b]
+
+[center][b][i][size=10pt][color=#B43104](network/peer info tabs)[/color][/size][/i][/b]
+
+[url=http://www.blockexperts.com/fire][IMG]http://blockexperts.com/img/logo.png[/img][/url][/center]
+
+ [/td][/tr][/table]
+
+Just incase anyone else has the same problem: Windows =
+start > type %appdata% in the search bar > open the roaming folder > open the Firecoin folder
+create new text document > name it Firecoin.conf > make sure it's .conf & not [s].txt.conf[/s]
+C:\Users\"username"\AppData\Roaming\Firecoin
+
+[code]
+rescan=1  //helps sync from new wallet, you have to restart it @ 4000, 4500, 5000 & smooth tx's after that.
+rpcuser=xxxxxxxx
+rpcpassword=xxxxxxxx //fire address works best
+rpcallowip=127.0.0.1
+rpcallowip=192.168.1.*  //change to your IP
+rpcport=49698
+port=49697
+daemon=1
+server=1
+testnet=0
+listen=1
+maxconnections=100
+addnode=23.80.94.149:49697
+addnode=50.83.9.153:49697
+addnode=174.59.44.54:49697
+[/code]
+
+[hr]
+[center][iurl=#op_top][IMG height=20 width=20]https://i.imgur.com/FWtyQd0.png[/img][/iurl]   [IMG height=20 width=120]http://oi62.tinypic.com/saz02q.jpg[/img]   [iurl=#op_bottom][IMG height=20 width=20]https://i.imgur.com/MU69KMv.png[/img][/iurl][/center]
+[hr]
+
+[b][i][u][size=14pt][color=#B43104]               Downloads               [/color][/size][/u][/i][/b]
+
+   [table][tr][td]
+   [/td][td]
+[center][color=#B40404][i][b][u]        FIRE v4.0     (old design)        [/u][/b][/i][/color][/center]
+
+[url=https://github.com/techcoincommunity/firecoin/releases][IMG]http://oi62.tinypic.com/o7sojl.jpg[/img][/url]
+
+[u][i][b][color=#B43104]File identification[/color][/b][/i][/u]
+[size=5pt]MD5 ac3cd30bf062592c4b21a16a7bdbd33f
+SHA1 1cfce408873dc8c0137088ee6c99110065e12a23
+SHA256 18e63ab747eff8928a42e10c31da6246b088deefb34bcb809a3fea827e18e43c
+ssdeep393216:Ea1+UipHLvlr/9tfsgvcBKP6oNx1elX7xeqrUmSu7JgMRao4Jsv6tWKFdu9C:YZnEgv2q6own7JVR
+authentihash  26e260369e61215ed9b8e7e946c91c31b32b0a13e8adcf39be7ca286e8da369e
+imphash  1268d324ec63ed1a4e16e4b3b35e483a
+File size 22.0 MB ( 23117312 bytes )
+File type Win32 EXE
+Magic literalPE32 executable for MS Windows (GUI) Intel 80386 32-bit
+TrID	InstallShield setup (46.2%)
+Win32 EXE PECompact compressed (generic) (44.6%)
+Win32 Executable (generic) (4.8%)
+Generic Win/DOS Executable (2.1%)
+DOS Executable Generic (2.1%)[/size]
+   [/td][td]
+[center][color=#B40404][i][b][u]        FIRE v4.0.1     (new design)        [/u][/b][/i][/color][/center]
+
+[url=https://github.com/techcoincommunity/firecoin/releases][IMG]http://oi62.tinypic.com/o7sojl.jpg[/img][/url]
+
+[color=#B40404][u][i][b]File identification[/b][/i][/u][/color]
+[size=5pt]MD5 3f923a03eb5239a6fb1b811b36d4b462
+SHA1 63eaf9063a2df1bb0093acfcd18a338ceda2b6a8
+SHA256 b53073c4909f3b1448da8c962710354d238edf8352a4d94f3f61ec0574b508c0
+ssdeep393216:RR8hQZP5AbSBOCPZmXm94c8eNdgl3pfHHUp/t37tgMRa6ZJsv6tWKFdu9CqC:JTRmXgP8ecs7tVReC
+authentihash  a1775fcd68c1f0ff65b8fed3a869b029bca0c51028ed069f4f33969ece7ab79b
+imphash  1268d324ec63ed1a4e16e4b3b35e483a
+File size 22.1 MB ( 23174656 bytes )
+File type Win32 EXE
+Magic literalPE32 executable for MS Windows (GUI) Intel 80386 32-bit
+TrID	InstallShield setup (46.2%)
+Win32 EXE PECompact compressed (generic) (44.6%)
+Win32 Executable (generic) (4.8%)
+Generic Win/DOS Executable (2.1%)
+DOS Executable Generic (2.1%)[/size]
+   [/td][/tr][/table]
+
+[hr]
+[center][iurl=#op_top][IMG height=20 width=20]https://i.imgur.com/FWtyQd0.png[/img][/iurl]   [IMG height=20 width=120]http://oi62.tinypic.com/saz02q.jpg[/img]   [iurl=#op_bottom][IMG height=20 width=20]https://i.imgur.com/MU69KMv.png[/img][/iurl][/center]
+[hr]
+
+ [table][tr][td]
+ [/td]
+ [td]
+
+[center][b][i][u][size=14pt][color=#B43104]     Website     [/color][/size][/u][/i][/b]
+
+[url=http://tech-commons.wix.com/fire-coin-community][IMG height=120 width=120]https://i.imgur.com/gDIGDiR.png[/img][/url][/center]
+
+ [/td]
+ [td]
+
+[center][b][i][u][size=14pt][color=#B43104]    Block Explorers    [/color][/size][/u][/i][/b]
+
+[url=http://www.blockexperts.com/fire][IMG]http://blockexperts.com/img/logo.png[/img][/url][/center]
+
+ [/td]
+ [td]
+
+[center][b][i][u][size=14pt][color=#B43104]     Faucets     [/color][/size][/u][/i][/b]
+
+[url=https://bitcointalk.org/index.php?topic=702951.msg10490130#msg10490130][img]http://oi58.tinypic.com/200wllz.jpg[/img][/url][/center]
+
+ [/td][/tr][/table]
+ [table][tr][td]
+ [/td]
+ [td]
+
+[center][b][i][u][size=14pt][color=#B43104]    Social    [/color][/size][/u][/i][/b]
+
+[url=https://twitter.com/FirecoinX15][IMG]https://i.imgur.com/SHu4pTN.png[/img][/url][/center]
+
+ [/td]
+ [td]
+
+[center][b][i][u][size=14pt][color=#B43104]                   8BTC                   [/color][/size][/u][/i][/b]
+[b][i][size=10pt][color=#B43104]QQ Group:368826530 QQ:1771376738[/color][/size][/i][/b]
+
+[url=http://8btc.com/forum.php?mod=viewthread&tid=13070&page=9#pid94968][IMG]http://8btc.com/template/ccbm_jianyue/images/logo/logo.svg[/img][/url][/center]
+ [/td][/tr][/table]
+
+[b][i][u][size=14pt][color=#B43104]               Exchanges               [/color][/size][/u][/i][/b]
+
+[url=https://yobit.net/en/trade/FIRE/BTC][IMG]https://yobit.net/i/small_logo.png[/img][/url]
+ 
+[hr]
+[center][iurl=#op_top][IMG height=20 width=20]https://i.imgur.com/FWtyQd0.png[/img][/iurl]   [IMG height=20 width=120]http://oi62.tinypic.com/saz02q.jpg[/img]   [iurl=#op_bottom][IMG height=20 width=20]https://i.imgur.com/MU69KMv.png[/img][/iurl][/center]
+[hr]
+
+[b][i][u][size=14pt][color=#B43104]     Development Funds | Tips | Donations    [/color][/size][/u][/i][/b]
+
+[size=10pt][color=#B43104]     BTC Donation to MultiFaucet | GrinZ from Testing Crypto    [/color][/size]
+Tx: 98aba71e464309c6cad54ef85597defa568871fcddae4bc6a7f735b381b6c9c0 //0.02046000 BTC
+
+[size=10pt][color=#B43104]     FIRE Donation to MultiFaucet | GrinZ from Testing Crypto    [/color][/size]
+Tx: 6b0dbc91a5cefddab3ed57c8de280a7e46982f504961b888b440de7743defb74 //100 FIRE
+Tx: 4a76e0ac77f462538587aefce7c89bf61dc94b9e89db12117ba032dca90fad4a //150 FIRE
+
+[size=10pt][color=#B43104]     FIRE Donation from *Sakura* to Testing Crypto    [/color][/size]
+Status: 11 confirmations, broadcast through 7 nodes
+Date: 01.03.2015 10:02
+To: FRWoUbAWBK7MBvTkHx4Nzb2pu1Ekq5BAyd
+Debit: -500.00 FIRE
+Transaction fee: -0.00001 FIRE
+Net amount: -500.00001 FIRE
+Transaction ID: dffabef98fd8ba99cd1bdf56f94be8a17cf5e6d06b1c92944990f461a08ed628
+
+[size=10pt][color=#B43104]     FIRE Donation from *Sakura* to cecilbdemented    [/color][/size]
+Status: 11 confirmations, broadcast through 7 nodes
+Date: 01.03.2015 10:05
+To: F8abZRvpugicpNGnwMqbA3CxjYtL6rdAB9
+Debit: -500.00 FIRE
+Transaction fee: -0.00001 FIRE
+Net amount: -500.00001 FIRE
+Transaction ID: 5f350cf29856dd4cc6989310594f10e1638178702097c6d6bcfa96f8e45f178b
+
+[hr]
+[hr]
+[center][iurl=#op_top][IMG height=20 width=20]https://i.imgur.com/FWtyQd0.png[/img][/iurl]   [IMG height=20 width=120]http://oi62.tinypic.com/saz02q.jpg[/img]   [iurl=#op_bottom][IMG height=20 width=20]https://i.imgur.com/MU69KMv.png[/img][/iurl][/center]
+[hr]
+[hr]
+[anchor=op_bottom]
+
+[b][color=#B43104]
+**Previous Developer/Promoters/Community efforts done to rebuild FIRE**
+[/color][/b]
+
+[url=https://bitcointalk.org/index.php?topic=669757.msg7575452#msg7575452][img]http://oi58.tinypic.com/29pswo0.jpg[/img][/url][url=https://bitcointalk.org/index.php?topic=702951.msg7946513#msg7946513][img]http://oi58.tinypic.com/29pswo0.jpg[/img][/url]
+
+ [table][tr][td]
+ [/td]
+ [td]
+
+[center][b][i][u][size=14pt][color=#B43104]    Outdated Website    [/color][/size][/u][/i][/b]
+[b][i][size=10pt][color=#B43104] (unable to post firecoin .tk link) [/color][/size][/i][/b]
+
+[IMG height=100 width=100]https://i.imgur.com/SpWCWW5.png[/img][/center]
+
+ [/td]
+ [td]
+
+[center][b][i][u][size=14pt][color=#B43104]     Outdated Timeline     [/color][/size][/u][/i][/b]
+
+[url=https://trello.com/b/GaX2tZly/to-do-list-for-firecoin][IMG]http://oi62.tinypic.com/dno7km.jpg[/img][/url][/center]
+
+ [/td]
+ [td]
+
+[center][b][i][u][size=14pt][color=#B43104]      Outdated Social      [/color][/size][/u][/i][/b]
+
+[url=http://www.reddit.com/r/Fire_Coin/][IMG]http://oi62.tinypic.com/j5utd2.jpg[/img][/url][/center]
+
+ [/td][/tr][/table]
+
+[b][i][u][size=14pt][color=#B43104]            Outdated Translation Threads            [/color][/size][/u][/i][/b]
+
+[b][i][color=#B43104]
+Chinese  <>  Spanish  <>  Italian  <>  Portuguese  <>  Russian #1 <> Russian #2
+[/color][/i][/b]
+
+[url=https://bitcointalk.org/index.php?topic=756536][IMG]http://oi60.tinypic.com/262xi6t.jpg[/img][/url][url=https://bitcointalk.org/index.php?topic=755757.0][IMG]http://oi60.tinypic.com/262xi6t.jpg[/img][/url][url=https://bitcointalk.org/index.php?topic=757304][IMG]http://oi60.tinypic.com/262xi6t.jpg[/img][/url][url=https://bitcointalk.org/index.php?topic=760275][IMG]http://oi60.tinypic.com/262xi6t.jpg[/img][/url][url=https://bitcointalk.org/index.php?topic=764227][IMG]http://oi60.tinypic.com/262xi6t.jpg[/img][/url][url=https://bitcointalk.org/index.php?topic=765715.0][IMG]http://oi60.tinypic.com/262xi6t.jpg[/img][/url]
+
+[b][i][u][size=14pt][color=#B43104]            Outdated Market Capitalization            [/color][/size][/u][/i][/b]
+
+[b][i][color=#B43104]
+WorldCoinIndex | CryptoCoinRank | CoinMarketCap
+[/color][/i][/b]
+
+[url=http://worldcoinindex.com/coin/Firecoin][IMG]http://oi57.tinypic.com/ekj41f.jpg[/img][/url]     [url=http://www.cryptocoinrank.com/Firecoin][IMG]http://oi57.tinypic.com/ekj41f.jpg[/img][/url]     [url=http://coinmarketcap.com/currencies/firecoin/][IMG]http://oi57.tinypic.com/ekj41f.jpg[/img][/url]
+
+[hr]
+[center][iurl=#op_top][IMG height=20 width=20]https://i.imgur.com/FWtyQd0.png[/img][/iurl]   [IMG height=20 width=120]http://oi62.tinypic.com/saz02q.jpg[/img]   [iurl=#op_top][IMG height=20 width=20]https://i.imgur.com/FWtyQd0.png[/img][/iurl][/center]
+[hr]
