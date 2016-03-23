@@ -4,6 +4,8 @@
 - FIRE v4.0.1 Release (updated graphics, with the idea for a real graphic update)
 - FIRE on YoBit.Net[/color][/font][/b][/size]
 
+[b][i][u][color=maroon][size=10pt]//unable to post firecoin .tk links[/size][/color][/u][/i][/b]
+
 [b]
 ~Fire Coin is an X15 to PoS coin.
 ~It's in the PoS only stage.
@@ -34,7 +36,7 @@ Max Coins > PoS: ~150,000
 
 [b][i][size=10pt][color=#B43104](network/peer info tabs)[/color][/size][/i][/b]
 
-[url=http://[Suspicious link removed]/NetworkInfo/index.php?Currency=FIRE]
+[url=http:///NetworkInfo/index.php?Currency=FIRE]
 
  [/td][/tr][/table]
 
@@ -49,7 +51,7 @@ rescan=1  //helps sync from new wallet, you have to restart it @ 4000, 4500, 500
 rpcport=49698
 port=49697
 maxconnections=10
-addnode= //pull from block explorer page http://[Suspicious link removed]/NetworkInfo/index.php?Currency=FIRE
+addnode= //pull from block explorer page
 [/code]
 
 [hr]
@@ -115,14 +117,14 @@ DOS Executable Generic (2.1%)[/size]
 
 [center][b][i][u][size=14pt][color=#B43104]    Block Explorers    [/color][/size][/u][/i][/b]
 
-[url=http://[Suspicious link removed]/Blocks/index.php?Currency=FIRE][Suspicious link removed] (MultiFaucet site engine update)[/url][/center]
+[url=http:///Blocks/index.php?Currency=FIRE][Suspicious link removed] (MultiFaucet site engine update)[/url][/center]
 
  [/td]
  [td]
 
 [center][b][i][u][size=14pt][color=#B43104]     Faucets     [/color][/size][/u][/i][/b]
 
-[url=http://www.[Suspicious link removed]/index.php?faucet=FIRE]MultiFaucet[/url][/center]
+[url=http://www./index.php?faucet=FIRE]MultiFaucet[/url][/center]
 
  [/td][/tr][/table]
  [table][tr][td]
