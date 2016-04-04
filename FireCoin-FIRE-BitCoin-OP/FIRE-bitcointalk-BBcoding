@@ -27,18 +27,23 @@ PoS Started on Block 4000
 PoS Minimal Stake Age: 1 hour //15 Blocks
 1% Annual PoS Interest
 Max Coins > PoS: ~150,000
-System Requirements: 124MB disk space | 130MB RAM/memory (this will very as the chain grows)
+[u]System Requirements:[/u]
+124MB disk space | 130MB RAM/memory
+(this will very as the chain grows)
 
  [/td]
  [td]
 
 [b][i][u][size=14pt][color=#B43104]            NODES            [/color][/size][/u][/i][/b]
 
-[b][i][size=10pt][color=#B43104](network/peer info tabs)[/color][/size][/i][/b]
+[center][b][i][size=12pt][color=#B43104](network/peer info tabs)[/color][/size][/i][/b]
 [url=https://chainz.cryptoid.info/fire/][color=#0080FF][b][u]          CryptoID          [/u][/b][/color][/url]
 
-[url=https://chainz.cryptoid.info/fire/#!network][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url]
+[url=https://chainz.cryptoid.info/fire/#!network][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
+[hr]
+[center][url=][color=#0080FF][b][u]        Cryptoguru        [/u][/b][/color][/url]
 
+[url=][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
  [/td][/tr][/table]
 
 Just incase anyone else has the same problem: Windows =
@@ -63,7 +68,7 @@ addnode= //pull from one of the block explorers
    [/td][td]
 [center][color=#B40404][i][b][u]        FIRE v4.0     (old design)        [/u][/b][/i][/color][/center]
 
-[url=https://github.com/techcoincommunity/firecoin/releases]github.com/techcoincommunity/firecoin/releases[/url]
+[url=https://github.com/techcoincommunity/firecoin/releases][size=12pt][i][b]Github | Downloads[/b][/i][/size][/url]
 
 [u][i][b][color=#B43104]File identification[/color][/b][/i][/u]
 [size=5pt]MD5 ac3cd30bf062592c4b21a16a7bdbd33f
@@ -86,7 +91,7 @@ DOS Executable Generic (2.1%)[/size]
 &
 create a unique Firecoin (FIRE) design)[/u][/b][/i][/color][/center]
 
-[url=https://github.com/techcoincommunity/firecoin/releases]github.com/techcoincommunity/firecoin/releases[/url]
+[url=https://github.com/techcoincommunity/firecoin/releases][size=12pt][i][b]Github | Downloads[/b][/i][/size][/url]
 
 [color=#B40404][u][i][b]File identification[/b][/i][/u][/color]
 [size=5pt]MD5 3f923a03eb5239a6fb1b811b36d4b462
@@ -166,9 +171,9 @@ Thanks again fairglu, chainz.cryptoid.info is a great place for a block explorer
 [table][tr][td]
  [/td]
  [td]
-[center][url=http://[Suspicious link removed]/CurrencyInfo/index.php?Currency=FIRE][color=#0080FF][b][u]          Cryptoguru          [/u][/b][/color][/url]
+[center][url=][color=#0080FF][b][u]          Cryptoguru          [/u][/b][/color][/url]
 
-[url=http://[Suspicious link removed]/CurrencyInfo/index.php?Currency=FIRE][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
+[url=][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
  [/td]
  [td]
 [center][url=https://www.blocktrail.com/BTC/address/18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa][color=#B43104][b][u]                    BlockTrail                    [/u][/b][/color][/url]
