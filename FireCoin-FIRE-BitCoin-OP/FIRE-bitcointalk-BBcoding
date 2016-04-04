@@ -21,13 +21,13 @@
 
 [b][i][u][size=14pt][color=#B43104]          Specifications          [/color][/size][/u][/i][/b]
 
-[b]
 Fire Coin Ticker: FIRE
 RPC Port: 49698 P2P Port: 49697
 PoS Started on Block 4000
 PoS Minimal Stake Age: 1 hour //15 Blocks
 1% Annual PoS Interest
 Max Coins > PoS: ~150,000
+System Requirements: 124MB disk space | 130MB RAM/memory (this will very as the chain grows)
 
  [/td]
  [td]
