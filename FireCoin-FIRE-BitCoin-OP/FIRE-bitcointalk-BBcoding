@@ -1,17 +1,14 @@
 [anchor=op_top][center]
-[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Monday, April 4, 2016 ~~
+[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Friday, July 15, 2016 ~~
 **Rebuilding FIRE one branch @ a time, help keep FIRE stable & innovative**
+- ANN = Replies/121, Views/11138
 - FIRE v4.0.1 Release (updated graphics, with the idea for a real graphics update)
 - FIRE on YoBit.Net[/color][/font][/b][/size]
 
-[b][i][u][color=maroon][size=10pt]//unable to post firecoin .tk links due to post count[/size][/color][/u][/i][/b]
+[b][i][u][color=maroon][size=10pt]//unable to post firecoin .tk links due to post count[/size][/color][/u][/i]
 
-[b]
-~Fire Coin is an X15 to PoS coin.
-~It's in the PoS only stage.
-
-~The original developer (Carson K.) & the second development team (tom14cat14, s3cr3t1, DrSnAzZy, CryptocoinTools) have left FIRE. Thank you for the efforts you made to build FIRE. Also a thanks to Earlz for testing with FIRE, as well as any others forking FIRE to launch other coins. Looks like edn247 also tried to help FIRE with an update, making FIRE PoW & PoS again? A true community coin since launch, lets show the world FIRE wasn't a wasted resource ;)
-[/b]
+~Fire Coin was an X15 (BitBlock) mined coin.
+~It's in the BitBlockForging (PoS) only stage.[/b]
 
 [hr]
 
@@ -23,12 +20,12 @@
 
 Fire Coin Ticker: FIRE
 RPC Port: 49698 P2P Port: 49697
-PoS Started on Block 4000
-PoS Minimal Stake Age: 1 hour //15 Blocks
+BBF (PoS) Started on Block 4000
+BBF (PoS) Minimal Stake Age: 1 hour /15 Blocks
 1% Annual PoS Interest
 Max Coins > PoS: ~150,000
 [u]System Requirements:[/u]
-124MB disk space | 130MB RAM/memory
+140MB disk space | 40-130MB RAM/memory
 (this will very as the chain grows)
 
  [/td]
@@ -41,9 +38,9 @@ Max Coins > PoS: ~150,000
 
 [url=https://chainz.cryptoid.info/fire/#!network][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
 [hr]
-[center][url=][color=#0080FF][b][u]        Cryptoguru        [/u][/b][/color][/url]
+[center][url=http://][color=#0080FF][b][u]        Cryptoguru        [/u][/b][/color][/url]
 
-[url=][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
+[url=http://][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
  [/td][/tr][/table]
 
 Just incase anyone else has the same problem: Windows =
@@ -134,10 +131,6 @@ DOS Executable Generic (2.1%)[/size]
  [/td]
  [td]
 
-[center][b][i][u][size=14pt][color=#B43104]                   8BTC                   [/color][/size][/u][/i][/b]
-[b][i][size=10pt][color=#B43104]QQ Group:368826530 QQ:1771376738[/color][/size][/i][/b]
-
-[url=http://8btc.com/forum.php?mod=viewthread&tid=13070&page=9#pid94968]8btc.com[/url][/center]
  [/td][/tr][/table]
 
 [b][i][u][size=14pt][color=#B43104]               Exchanges               [/color][/size][/u][/i][/b]
@@ -163,7 +156,7 @@ DOS Executable Generic (2.1%)[/size]
 [/td][/tr][/table]
 [/center]
 
-Thanks again fairglu, chainz.cryptoid.info is a great place for a block explorer & visual input on each Alt :)
+Thanks again fairglu, Firecoin (FIRE) Premium Expires: 2016-08-18 (in 32.9 days)
 
 [hr]
 
@@ -171,9 +164,9 @@ Thanks again fairglu, chainz.cryptoid.info is a great place for a block explorer
 [table][tr][td]
  [/td]
  [td]
-[center][url=][color=#0080FF][b][u]          Cryptoguru          [/u][/b][/color][/url]
+[center][url=http://][color=#0080FF][b][u]          Cryptoguru          [/u][/b][/color][/url]
 
-[url=][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
+[url=http://][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
  [/td]
  [td]
 [center][url=https://www.blocktrail.com/BTC/address/18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa][color=#B43104][b][u]                    BlockTrail                    [/u][/b][/color][/url]
@@ -182,7 +175,7 @@ Thanks again fairglu, chainz.cryptoid.info is a great place for a block explorer
 [/td][/tr][/table]
 [/center]
 
-Thanks again GrinZ, Firecoin (FIRE) paid up til 2016-05-17 :)
+Thanks again GrinZ, Firecoin (FIRE) Premium Expires: 2016-05-17
 
 [hr]
 
@@ -219,7 +212,9 @@ Transaction ID: 5f350cf29856dd4cc6989310594f10e1638178702097c6d6bcfa96f8e45f178b
 **Previous Developer/Promoters/Community efforts done to rebuild FIRE**
 [/color][/b]
 
-[url=https://bitcointalk.org/index.php?topic=669757.msg7575452#msg7575452]Old Thread (OP or ANN)[/url][url=https://bitcointalk.org/index.php?topic=702951.msg7946513#msg7946513]Old Thread (OP or ANN)[/url]
+~The original developer (Carson K.) & the second development team (tom14cat14, s3cr3t1, DrSnAzZy, CryptocoinTools) have left FIRE. Thank you for the efforts you made to build FIRE. Also a thanks to Earlz for testing with FIRE, as well as any others forking FIRE to launch other coins. Looks like edn247 also tried to help FIRE with an update, making FIRE PoW & PoS again? A true community coin since launch, lets show the world FIRE wasn't a wasted resource.
+
+[url=https://bitcointalk.org/index.php?topic=669757.msg7575452#msg7575452]Old Thread (OP or ANN)     [/url][url=https://bitcointalk.org/index.php?topic=702951.msg7946513#msg7946513]Old Thread (OP or ANN)[/url]
 
  [table][tr][td]
  [/td]
@@ -250,7 +245,7 @@ Transaction ID: 5f350cf29856dd4cc6989310594f10e1638178702097c6d6bcfa96f8e45f178b
 Chinese  <>  Spanish  <>  Italian  <>  Portuguese  <>  Russian #1 <> Russian #2
 [/color][/i][/b]
 
-[url=https://bitcointalk.org/index.php?topic=756536]Old Thread (OP or ANN)[/url][url=https://bitcointalk.org/index.php?topic=755757.0]Old Thread (OP or ANN)[/url][url=https://bitcointalk.org/index.php?topic=757304]Old Thread (OP or ANN)[/url][url=https://bitcointalk.org/index.php?topic=760275]Old Thread (OP or ANN)[/url][url=https://bitcointalk.org/index.php?topic=764227]Old Thread (OP or ANN)[/url][url=https://bitcointalk.org/index.php?topic=765715.0]Old Thread (OP or ANN)[/url]
+[url=https://bitcointalk.org/index.php?topic=756536]Old Thread     [/url][url=https://bitcointalk.org/index.php?topic=755757.0]Old Thread     [/url][url=https://bitcointalk.org/index.php?topic=757304]Old Thread     [/url][url=https://bitcointalk.org/index.php?topic=760275]Old Thread     [/url][url=https://bitcointalk.org/index.php?topic=764227]Old Thread     [/url][url=https://bitcointalk.org/index.php?topic=765715.0]Old Thread[/url]
 
 [b][i][u][size=14pt][color=#B43104]            Outdated Market Capitalization            [/color][/size][/u][/i][/b]
 
