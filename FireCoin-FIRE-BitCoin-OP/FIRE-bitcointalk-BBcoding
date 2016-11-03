@@ -1,17 +1,15 @@
-[anchor=op_top][center]
-[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Friday, July 15, 2016 ~~
+[center]
+[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Thursday, November 3, 2016 ~~
 **Rebuilding FIRE one branch @ a time, help keep FIRE stable & innovative**
-- ANN = Replies/121, Views/11138
+- ANN = Replies/141, Views/13130
 - FIRE v4.0.1 Release (updated graphics, with the idea for a real graphics update)
-- FIRE on YoBit.Net[/color][/font][/b][/size]
+- FIRE on YoBit.net[/color][/font][/b][/size]
 
-[b][i][u][color=maroon][size=10pt]//unable to post firecoin .tk links due to post count[/size][/color][/u][/i]
-
-~Fire Coin was an X15 (BitBlock) mined coin.
-~It's in the BitBlockForging (PoS) only stage.[/b]
-
+[i][b]~Fire Coin was an X15 (BitBlock) mined coin.
+~It's in the BitBlockForging (PoS) only stage.[/b][/i]
+[/center]
 [hr]
-
+[center]
  [table][tr][td]
  [/td]
  [td]
@@ -25,22 +23,24 @@ BBF (PoS) Minimal Stake Age: 1 hour /15 Blocks
 1% Annual PoS Interest
 Max Coins > PoS: ~150,000
 [u]System Requirements:[/u]
-140MB disk space | 40-130MB RAM/memory
+151MB disk space | 160MB RAM/memory
 (this will very as the chain grows)
 
  [/td]
  [td]
 
-[b][i][u][size=14pt][color=#B43104]            NODES            [/color][/size][/u][/i][/b]
+[center][b][i][u][size=14pt][color=#B43104]            NODES            [/color][/size][/u][/i][/b]
 
-[center][b][i][size=12pt][color=#B43104](network/peer info tabs)[/color][/size][/i][/b]
+[b][i][size=12pt][color=#B43104](network/peer info tabs)[/color][/size][/i][/b]
+
 [url=https://chainz.cryptoid.info/fire/][color=#0080FF][b][u]          CryptoID          [/u][/b][/color][/url]
 
 [url=https://chainz.cryptoid.info/fire/#!network][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
 [hr]
-[center][url=http://][color=#0080FF][b][u]        Cryptoguru        [/u][/b][/color][/url]
+[hr]
+[center][url=http://cryptoguru.tk][color=#0080FF][b][u]        Cryptoguru        [/u][/b][/color][/url]
 
-[url=http://][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
+[url=http://http://cryptoguru.tk/NetworkInfo/index.php?Currency=FIRE][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
  [/td][/tr][/table]
 
 Just incase anyone else has the same problem: Windows =
@@ -56,9 +56,9 @@ port=49697
 maxconnections=10
 addnode= //pull from one of the block explorers
 [/code]
-
+[/center]
 [hr]
-
+[center]
 [b][i][u][size=14pt][color=#B43104]               Downloads               [/color][/size][/u][/i][/b]
 
    [table][tr][td]
@@ -84,9 +84,7 @@ Generic Win/DOS Executable (2.1%)
 DOS Executable Generic (2.1%)[/size]
    [/td][td]
 [center][color=#B40404][i][b][u]FIRE v4.0.1
-(splash screen will be in need of a real artist to build upon
-&
-create a unique Firecoin (FIRE) design)[/u][/b][/i][/color][/center]
+(splash screen needs a unique Firecoin (FIRE) design)[/u][/b][/i][/color][/center]
 
 [url=https://github.com/techcoincommunity/firecoin/releases][size=12pt][i][b]Github | Downloads[/b][/i][/size][/url]
 
@@ -106,42 +104,46 @@ Win32 Executable (generic) (4.8%)
 Generic Win/DOS Executable (2.1%)
 DOS Executable Generic (2.1%)[/size]
    [/td][/tr][/table]
-
+[/center]
 [hr]
-
- [table][tr][td]
- [/td]
- [td]
-
- [/td]
- [td]
-
- [/td]
- [td]
-
- [/td][/tr][/table]
- [table][tr][td]
- [/td]
- [td]
-
-[center][b][i][u][size=14pt][color=#B43104]    Social    [/color][/size][/u][/i][/b]
-
-[url=https://twitter.com/FirecoinX15]@FirecoinX15[/url][/center]
-
- [/td]
- [td]
-
- [/td][/tr][/table]
-
-[b][i][u][size=14pt][color=#B43104]               Exchanges               [/color][/size][/u][/i][/b]
-
-[url=https://yobit.net/en/trade/FIRE/BTC]YoBit.net[/url]
-
-[hr]
-
-[b][i][u][size=14pt][color=#B43104]     Development Funds | Tips | Donations    [/color][/size][/u][/i][/b]
-
 [center]
+ [table][tr][td]
+ [/td]
+ [td]
+[b][i][u][size=12pt][color=#B43104]        Exchanges        [/color][/size][/u][/i][/b]
+
+[center][url=https://yobit.net/en/trade/FIRE/BTC]YoBit.net[/url][/center]
+ [/td]
+ [td]
+[b][i][u][size=12pt][color=#B43104]        Market Capitalization        [/color][/size][/u][/i][/b]
+
+[center][url=http://coinmarketcap.com/currencies/firecoin/]CoinMarketCap[/url][/center]
+ [/td][/tr][/table]
+
+ [table][tr][td]
+ [/td]
+ [td]
+[b][i][u][size=12pt][color=#B43104]        Social        [/color][/size][/u][/i][/b]
+
+[center][url=https://twitter.com/FirecoinX15]@FirecoinX15[/url]
+
+[url=http://www.reddit.com/r/Fire_Coin/]Reddit[/url][/center]
+ [/td]
+ [td]
+[b][i][u][size=12pt][color=#B43104]        Games        [/color][/size][/u][/i][/b]
+
+[center][url=https://firecoindice.kranzworthmedia.com]kranzworthmedia.com[/url][/center]
+ [/td]
+ [td]
+[b][i][u][size=12pt][color=#B43104]        Faucets        [/color][/size][/u][/i][/b]
+
+[center][url=http://cryptoguru.tk/Faucet/index.php?Currency=FIRE]Cryptoguru.tk[/url][/center]
+ [/td][/tr][/table]
+[/center]
+[hr]
+[center]
+[b][i][u][size=14pt][color=#B43104]     Community Development Funds | Tips | Donations    [/color][/size][/u][/i][/b]
+
 [table][tr][td]
  [/td]
  [td]
@@ -154,12 +156,10 @@ DOS Executable Generic (2.1%)[/size]
 
 [url=https://www.blocktrail.com/BTC/address/1J4SLfCvFCZKMv5WjEYk2qFM4Vj3xBfcXo][color=#B43104][b]          [btc]  1J4SLfCvFCZKMv5WjEYk2qFM4Vj3xBfcXo          [/b][/color][/url][/center]
 [/td][/tr][/table]
+
+Thanks again fairglu, Firecoin (FIRE) Premium Expired on: 2016-10-19 (13 days ago)
 [/center]
-
-Thanks again fairglu, Firecoin (FIRE) Premium Expires: 2016-08-18 (in 32.9 days)
-
 [hr]
-
 [center]
 [table][tr][td]
  [/td]
@@ -173,41 +173,30 @@ Thanks again fairglu, Firecoin (FIRE) Premium Expires: 2016-08-18 (in 32.9 days)
 
 [url=https://www.blocktrail.com/BTC/address/18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa][color=#B43104][b]          [btc]  18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa          [/b][/color][/url][/center]
 [/td][/tr][/table]
+
+Thanks again GrinZ, Firecoin (FIRE) Premium Expired on: 2016-05-17
 [/center]
-
-Thanks again GrinZ, Firecoin (FIRE) Premium Expires: 2016-05-17
-
 [hr]
+[center]
+[size=10pt][color=#B43104]     BTC Donation to CryptoID | fairglu from *Sakura*    [/color][/size]
+Tx: b967d60e3de3dff76da6eb962c163cd4ce959fbd1341d486f7a0d38c6cb7232b //0.015 BTC
 
 [size=10pt][color=#B43104]     BTC Donation to MultiFaucet | GrinZ from Testing Crypto    [/color][/size]
-Tx: 98aba71e464309c6cad54ef85597defa568871fcddae4bc6a7f735b381b6c9c0 //0.02046000 BTC
+Tx: 98aba71e464309c6cad54ef85597defa568871fcddae4bc6a7f735b381b6c9c0 //0.02046 BTC
 
 [size=10pt][color=#B43104]     FIRE Donation to MultiFaucet | GrinZ from Testing Crypto    [/color][/size]
 Tx: 6b0dbc91a5cefddab3ed57c8de280a7e46982f504961b888b440de7743defb74 //100 FIRE
 Tx: 4a76e0ac77f462538587aefce7c89bf61dc94b9e89db12117ba032dca90fad4a //150 FIRE
 
 [size=10pt][color=#B43104]     FIRE Donation from *Sakura* to Testing Crypto    [/color][/size]
-Status: 11 confirmations, broadcast through 7 nodes
-Date: 01.03.2015 10:02
-To: FRWoUbAWBK7MBvTkHx4Nzb2pu1Ekq5BAyd
-Debit: -500.00 FIRE
-Transaction fee: -0.00001 FIRE
-Net amount: -500.00001 FIRE
-Transaction ID: dffabef98fd8ba99cd1bdf56f94be8a17cf5e6d06b1c92944990f461a08ed628
+Tx: dffabef98fd8ba99cd1bdf56f94be8a17cf5e6d06b1c92944990f461a08ed628  //500 FIRE
 
 [size=10pt][color=#B43104]     FIRE Donation from *Sakura* to cecilbdemented    [/color][/size]
-Status: 11 confirmations, broadcast through 7 nodes
-Date: 01.03.2015 10:05
-To: F8abZRvpugicpNGnwMqbA3CxjYtL6rdAB9
-Debit: -500.00 FIRE
-Transaction fee: -0.00001 FIRE
-Net amount: -500.00001 FIRE
-Transaction ID: 5f350cf29856dd4cc6989310594f10e1638178702097c6d6bcfa96f8e45f178b
-
+Tx: 5f350cf29856dd4cc6989310594f10e1638178702097c6d6bcfa96f8e45f178b  //500 FIRE
+[/center]
 [hr]
 [hr]
-[anchor=op_bottom]
-
+[center]
 [b][color=#B43104]
 **Previous Developer/Promoters/Community efforts done to rebuild FIRE**
 [/color][/b]
@@ -216,28 +205,6 @@ Transaction ID: 5f350cf29856dd4cc6989310594f10e1638178702097c6d6bcfa96f8e45f178b
 
 [url=https://bitcointalk.org/index.php?topic=669757.msg7575452#msg7575452]Old Thread (OP or ANN)     [/url][url=https://bitcointalk.org/index.php?topic=702951.msg7946513#msg7946513]Old Thread (OP or ANN)[/url]
 
- [table][tr][td]
- [/td]
- [td]
-
-[center][b][i][u][size=14pt][color=#B43104]    Outdated Website    [/color][/size][/u][/i][/b]
-[b][i][size=10pt][color=#B43104] (unable to post firecoin .tk link) [/color][/size][/i][/b][/center]
-
- [/td]
- [td]
-
-[center][b][i][u][size=14pt][color=#B43104]     Outdated Timeline     [/color][/size][/u][/i][/b]
-
-[url=https://trello.com/b/GaX2tZly/to-do-list-for-firecoin]Trello[/url][/center]
-
- [/td]
- [td]
-
-[center][b][i][u][size=14pt][color=#B43104]      Outdated Social      [/color][/size][/u][/i][/b]
-
-[url=http://www.reddit.com/r/Fire_Coin/]Reddit[/url][/center]
-
- [/td][/tr][/table]
 
 [b][i][u][size=14pt][color=#B43104]            Outdated Translation Threads            [/color][/size][/u][/i][/b]
 
@@ -249,8 +216,7 @@ Chinese  <>  Spanish  <>  Italian  <>  Portuguese  <>  Russian #1 <> Russian #2
 
 [b][i][u][size=14pt][color=#B43104]            Outdated Market Capitalization            [/color][/size][/u][/i][/b]
 
-[b][i][color=#B43104]
-WorldCoinIndex | CryptoCoinRank | CoinMarketCap
-[/color][/i][/b]
+[b][i][color=#B43104][u]WorldCoinIndex[/u][/color][/i][/b]
 
-[url=http://worldcoinindex.com/coin/Firecoin]WorldCoinIndex[/url]     [url=http://www.cryptocoinrank.com/Firecoin]CryptoCoinRank[/url]     [url=http://coinmarketcap.com/currencies/firecoin/]CoinMarketCap[/url]
+[url=http://worldcoinindex.com/coin/Firecoin]WorldCoinIndex[/url]
+[/center]
