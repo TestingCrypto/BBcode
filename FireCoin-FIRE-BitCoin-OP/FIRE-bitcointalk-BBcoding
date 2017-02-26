@@ -1,47 +1,41 @@
 [center]
-[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Thursday, November 3, 2016 ~~
+[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Sunday, February 26, 2017 ~~
 **Rebuilding FIRE one branch @ a time, help keep FIRE stable & innovative**
-- ANN = Replies/141, Views/13130
-- FIRE v4.0.1 Release (updated graphics, with the idea for a real graphics update)
-- FIRE on YoBit.net[/color][/font][/b][/size]
+- FIRE v4.0.1.0 Release (updated graphics, with the idea for a real graphics update)
+
+[b][i][u][size=14pt][color=#B43104]          [url=http://crypto-community.wixsite.com/fire-coin-community]Template Website[/url]          [/color][/size][/u][/i][/b]
 
 [i][b]~Fire Coin was an X15 (BitBlock) mined coin.
-~It's in the BitBlockForging (PoS) only stage.[/b][/i]
+~It's in the Bit Block Forging (PoS) only stage.[/b][/i]
 [/center]
 [hr]
 [center]
- [table][tr][td]
- [/td]
- [td]
 
 [b][i][u][size=14pt][color=#B43104]          Specifications          [/color][/size][/u][/i][/b]
 
-Fire Coin Ticker: FIRE
+Abbreviation: FIRE
 RPC Port: 49698 P2P Port: 49697
-BBF (PoS) Started on Block 4000
+Bit Block Forging (PoS) Started on Block 4000
 BBF (PoS) Minimal Stake Age: 1 hour /15 Blocks
 1% Annual PoS Interest
-Max Coins > PoS: ~150,000
+Max Coins: ~150,000
+(Current 98,377 FIRE @ 0.1% average inflation)
 [u]System Requirements:[/u]
-151MB disk space | 160MB RAM/memory
+160MB disk space | 53.9-160MB RAM/memory
 (this will very as the chain grows)
+[u]4.0 | 4.0.0.1 deps:[/u]
+mgw48-mt-s-1_55
+boost_1_55_0
+db-4.8.30.NC
+openssl-1.0.1l 15 Jan 2015
+libpng-1.6.12
+qrencode-3.4.3
 
- [/td]
- [td]
-
-[center][b][i][u][size=14pt][color=#B43104]            NODES            [/color][/size][/u][/i][/b]
-
-[b][i][size=12pt][color=#B43104](network/peer info tabs)[/color][/size][/i][/b]
-
-[url=https://chainz.cryptoid.info/fire/][color=#0080FF][b][u]          CryptoID          [/u][/b][/color][/url]
-
-[url=https://chainz.cryptoid.info/fire/#!network][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
 [hr]
 [hr]
 [center][url=http://cryptoguru.tk][color=#0080FF][b][u]        Cryptoguru        [/u][/b][/color][/url]
 
-[url=http://http://cryptoguru.tk/NetworkInfo/index.php?Currency=FIRE][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
- [/td][/tr][/table]
+[url=http://cryptoguru.tk/NetworkInfo/index.php?Currency=FIRE][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
 
 Just incase anyone else has the same problem: Windows =
 start > type %appdata% in the search bar > open the roaming folder > open the Firecoin folder
@@ -49,13 +43,23 @@ create new text document > name it Firecoin.conf > make sure it's .conf & not [s
 C:\Users\"username"\AppData\Roaming\Firecoin
 
 [code]
-rescan=1  //helps sync from new wallet, you might have to restart it @ 4000, 4500, 5000 blocks
-
+rescan=1
 rpcport=49698
 port=49697
 maxconnections=10
-addnode= //pull from one of the block explorers
+rpcallowip=127.0.0.1
+addnode=162.220.166.125
+addnode=104.236.167.70
+addnode=78.46.92.72
+addnode=50.64.76.151
+addnode=50.83.4.208
 [/code]
+rescan=1  //helps sync from new wallet swap, you might have to restart it @ 4000, 4500, 5000 blocks
+rpcport=49698  //set to allow rpc calls
+port=49697  //not really needed, only for mining
+maxconnections=10  //should never need more than 10 nodes, unless masternode or seednode
+rpcallowip=127.0.0.1  //allows the rpc port to be set
+addnode=162.220.166.125  //pull from one of the block explorers above
 [/center]
 [hr]
 [center]
@@ -157,7 +161,7 @@ DOS Executable Generic (2.1%)[/size]
 [url=https://www.blocktrail.com/BTC/address/1J4SLfCvFCZKMv5WjEYk2qFM4Vj3xBfcXo][color=#B43104][b]          [btc]  1J4SLfCvFCZKMv5WjEYk2qFM4Vj3xBfcXo          [/b][/color][/url][/center]
 [/td][/tr][/table]
 
-Thanks again fairglu, Firecoin (FIRE) Premium Expired on: 2016-10-19 (13 days ago)
+Thanks again fairglu, Firecoin (FIRE) Premium Expired on: 2016-10-19
 [/center]
 [hr]
 [center]
