@@ -1,40 +1,40 @@
-[center]
+[center][anchor=op_introduction]
 [img]http://i.imgur.com/iNiEtqY.png[/img]
+
+| [iurl=#op_introduction]Introduction[/iurl] | [iurl=#op_specifications]Specifications[/iurl] | [iurl=#op_websites]WEBSITE (MUSIC CHANNELS)[/iurl] | [iurl=#op_about]About Flavorcoin Radio[/iurl] | [iurl=#op_aboutflav]About 2FLAV[/iurl] |
+| [iurl=#op_premine]Premine[/iurl] | [iurl=#op_roadmap]Roadmap[/iurl] | [iurl=#op_wallets]Wallet Downloads[/iurl] | [iurl=#op_researchindextools]Research Index Tools[/iurl] | [iurl=#op_exchanges]EXCHANGES[/iurl] | [iurl=#op_socialmedia]Social Media[/iurl] | [iurl=#op_contactus]Contact Us[/iurl] |
+[/center]
+[hr][center]
 
 What is Flavorcoin? Flavorcoin is a *radio* for traders in the crypto community
 
 2FLAV is the *currency* for Flavorcoin Radio. which can be used to purchase advertisement space
 
-
-[b][u][size=12pt]SPECIFICATIONS[/size][/u][/b]
-
+[/center]
+[hr][center]
+[iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][url=http://lkesson.wixsite.com/flavorcoinradio][img height=20 width=20]http://i.imgur.com/IpjTlUc.jpg[/img][/url][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl]
+[/center]
+[hr][center][anchor=op_specifications]
+   [table][tr][td]
+   [/td]
+   [td]
+[b][u]SPECIFICATIONS[/u][/b]
 [b]Name:[/b] FlavorCoin - Version 2
-
 [b]Ticker:[/b] 2FLAV
-
 [b]Supply:[/b] ~20 000 000
-
 [b]Stake:[/b] 5% ANNUAL
-
 [b]Premine:[/b] 675 000 (Swap Flav Version 1)
-
 [b]Port:[/b] 28291
 [b]Rpc Port:[/b] 28292
-
 [b]Algo:[/b] SHA256
-
 [b]Block Time:[/b] 120 s
-
 [b]Min. Stake Age:[/b] 2 hours
-
 [b]Max. Stake Age:[/b] 20 days
-
 [b]POW:[/b] 6464067 FLAV
-
 [b]POS:[/b] 6464067 FLAV
-
-
-[b][u]POW SPECS[/u][/b]
+   [/td]
+   [td]
+[b][u]POW SPECS : complete[/u][/b]
 
 Block 1 = 675.000(swap)
 Block 2 - Block 100 = 0 (anti instamine)
@@ -49,9 +49,9 @@ Block 28 101 - Block 36 100 = 15.625(~125.000)
 Block 36 101 - Block 45 100 = 7.813(~70.317)
 Block 45 101 - Block 55 100 = 3.9(~39.000)
 Block 55 101 - Block 66 100 = 1(~11.000)
-
-
-[b][u]POS SPECS[/u][/b]
+   [/td]
+   [td]
+[b][u]POS SPECS : complete[/u][/b]
 
 Block 1 - Block 1 100 = 1(~11.000)
 Block 1 101 - Block 3 100 = 3.9(~39.000)
@@ -65,7 +65,16 @@ Block 36 101 - Block 45 100 = 500(~1.500.000)
 Block 45 101 - Block 55 100 = 750(~1.500.000)
 Block 55 101 - Block 66 100 = 1000(~1.000.000)
 Block 66.101 ++ = 5 FLAV
+   [/td]
+   [td]
 
+   [/td][/tr][/table]
+[/center]
+[hr]
+[center]
+[iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][url=http://lkesson.wixsite.com/flavorcoinradio][img height=20 width=20]http://i.imgur.com/IpjTlUc.jpg[/img][/url][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl]
+[/center]
+[hr][center][anchor=op_websites]
 
 [u][b]WEBSITE (MUSIC CHANNELS)[/b][/u]
 
@@ -75,6 +84,12 @@ https://soundcloud.com/flavorcoin
 
 http://tunein.com/radio/FlavorCoin-Radio-s268812/
 
+[/center]
+[hr]
+[center]
+[iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][url=http://lkesson.wixsite.com/flavorcoinradio][img height=20 width=20]http://i.imgur.com/IpjTlUc.jpg[/img][/url][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl]
+[/center]
+[hr][center][anchor=op_aboutradio]
 
 [u][b]About Flavorcoin Radio[/b][/u]
 
@@ -85,7 +100,7 @@ shoutcast,and tunein, we also have android app for mobile.
 advertising space on air can be purchased with 2flav, more
 details shortly on pricing. stay tuned for more info
 
-
+[anchor=op_about2flav]
 [u][b]ABOUT 2FLAV[/b][/u]
 
 2FLAV is a POW/POS coin with a generous reward for staking. 2flav can be used to
@@ -115,6 +130,12 @@ FlavorCoin is cross-niche but focusing on the music first, as that's
 the foundation of the coin. There is no outta space nonsense, this 
 project will do and is doing what it says on the tin.
 
+[/center]
+[hr]
+[center]
+[iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][url=http://lkesson.wixsite.com/flavorcoinradio][img height=20 width=20]http://i.imgur.com/IpjTlUc.jpg[/img][/url][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl]
+[/center]
+[hr][center][anchor=op_premine]
 
 [b][u]Premine[/u][/b]
 
@@ -125,6 +146,12 @@ Details of CoinSwap used an escrow service for the swap
 https://bitcointalk.org/index.php?topic=1494170.msg15055393#msg15055393
 + 99.9% has been burned: http://sys300.cryptoid.info/flav/#!wallets
 
+[/center]
+[hr]
+[center]
+[iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][url=http://lkesson.wixsite.com/flavorcoinradio][img height=20 width=20]http://i.imgur.com/IpjTlUc.jpg[/img][/url][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl]
+[/center]
+[hr][center][anchor=op_roadmap]
 
 [b][u]ROADMAP[/u][/b]
 
@@ -144,44 +171,68 @@ Have available airspace for crypto advertising which can be purchased with 2flav
 
 Radio in wallet chill and trade : work in progress
 
-
-[b][u]WALLETS[/u][/b]
+[/center]
+[hr]
+[center]
+[iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][url=http://lkesson.wixsite.com/flavorcoinradio][img height=20 width=20]http://i.imgur.com/IpjTlUc.jpg[/img][/url][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl]
+[/center]
+[hr][center]
+   [table][tr][td]
+   [/td]
+   [td]
+[anchor=op_wallets]
+[center][b][u]WALLETS[/u][/b]
 
 [url=https://mega.nz/#!98ABEJST!UU_rGf6jhtB74GMIgMEcLm7cz2sh5pG5jEU6wutPukI/][img]http://i.imgur.com/wwivKvV.png[/img][/url]
 
-[url=https://github.com/flavorcoin/FlavorCoin-V2][img]http://i.imgur.com/A6oq4Ip.jpg[/img][/url]
-
-
+[url=https://github.com/flavorcoin/FlavorCoin-V2][img]http://i.imgur.com/A6oq4Ip.jpg[/img][/url][/center]
+   [/td]
+   [td]
+[center][anchor=op_researchindextools]
 [b][u]Research Index Tools[/u][/b]
 
 https://coinmarketcap.com/currencies/flavorcoin/
-
-http://coinofview.com/coin/Flavorcoin.html
 
 https://www.cryptocompare.com/coins/2flav/overview
 
 New Explorer http://flavorcoin.thecryptochat.net/
 
-Old Explorer https://chainz.cryptoid.info/2flav/
-
-Old Explorer http://2flav.explorers.altcoinsteps.com/
-
-
+Old Explorer https://chainz.cryptoid.info/2flav/[/center]
+   [/td]
+   [td]
+[center][anchor=op_exchanges]
 [b][u]EXCHANGES[/u][/b]
 
-[url=https://yobit.net/en/trade/2FLAV/BTC][img]https://yobit.net/imginfo/2FLAV[/img][/url]
+[url=https://yobit.net/en/trade/2FLAV/BTC][img]https://yobit.net/imginfo/2FLAV[/img][/url][/center]
+   [/td][/tr][/table]
+[/center]
+[hr]
+[center]
+[iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][url=http://lkesson.wixsite.com/flavorcoinradio][img height=20 width=20]http://i.imgur.com/IpjTlUc.jpg[/img][/url][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl]
+[/center]
+[hr][center]
 
+   [table][tr][td]
+   [/td]
+   [td]
+[center][anchor=op_socialmedia]
+[b][u]Social Media[/u][/b]
 
-[b][u]SOCIAL[/u][/b]
-
-[url=https://twitter.com/flavorcoin][img]http://i.imgur.com/RUMbFxy.png[/img][/url]  
-
-
+[url=https://twitter.com/flavorcoin][img]http://i.imgur.com/RUMbFxy.png[/img][/url][/center]
+   [/td]
+   [td]
+[center][anchor=op_contactus]
 [b][u]Contact Us[/u][/b]
 
 [url=http://Twitter：https://twitter.com/wemcoin]Twitter@flavorcoin[/url]
 
-Email：[email]flavorcoin@gmail.com[/email]  
+Email：[email]flavorcoin@gmail.com[/email][/center]
+   [/td]
+   [td]
 
+   [/td][/tr][/table]
 [img]http://i.imgur.com/IpjTlUc.jpg[/img]
+| [iurl=#op_introduction]Introduction[/iurl] | [iurl=#op_specifications]Specifications[/iurl] | [iurl=#op_websites]WEBSITE (MUSIC CHANNELS)[/iurl] | [iurl=#op_about]About Flavorcoin Radio[/iurl] | [iurl=#op_aboutflav]About 2FLAV[/iurl] |
+| [iurl=#op_premine]Premine[/iurl] | [iurl=#op_roadmap]Roadmap[/iurl] | [iurl=#op_wallets]Wallet Downloads[/iurl] | [iurl=#op_researchindextools]Research Index Tools[/iurl] | [iurl=#op_exchanges]EXCHANGES[/iurl] | [iurl=#op_socialmedia]Social Media[/iurl] | [iurl=#op_contactus]Contact Us[/iurl] |
+[iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][url=http://lkesson.wixsite.com/flavorcoinradio][img height=20 width=20]http://i.imgur.com/IpjTlUc.jpg[/img][/url][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=256]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl]
 [/center]
