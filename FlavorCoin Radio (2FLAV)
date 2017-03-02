@@ -97,7 +97,9 @@ Block 66.101 ++ = 5 FLAV
 [center]
 [iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl][img height=20 width=128]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=128]http://i.imgur.com/VfZrpJT.png[/img][url=http://lkesson.wixsite.com/flavorcoinradio][img height=20 width=20]http://i.imgur.com/IpjTlUc.jpg[/img][/url][img height=20 width=128]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=128]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl]
 [/center]
-[hr][center][anchor=op_aboutradio]
+[hr]
+[center]
+[anchor=op_about]
 
 [u][b]About Flavorcoin Radio[/b][/u]
 
@@ -108,7 +110,7 @@ shoutcast,and tunein, we also have android app for mobile.
 advertising space on air can be purchased with 2flav, more
 details shortly on pricing. stay tuned for more info
 
-[anchor=op_about2flav]
+[anchor=op_aboutflav]
 [u][b]ABOUT 2FLAV[/b][/u]
 
 2FLAV is a POW/POS coin with a generous reward for staking. 2flav can be used to
@@ -159,7 +161,8 @@ https://bitcointalk.org/index.php?topic=1494170.msg15055393#msg15055393
 [center]
 [iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl][img height=20 width=128]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=128]http://i.imgur.com/VfZrpJT.png[/img][url=http://lkesson.wixsite.com/flavorcoinradio][img height=20 width=20]http://i.imgur.com/IpjTlUc.jpg[/img][/url][img height=20 width=128]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_contactus][img height=20 width=20]http://i.imgur.com/8Yk2Qj4.png?1[/img][/iurl][img height=20 width=128]http://i.imgur.com/VfZrpJT.png[/img][iurl=#op_introduction][img height=20 width=20]http://i.imgur.com/hDiLHKS.png[/img][/iurl]
 [/center]
-[hr][center][anchor=op_roadmap]
+[hr]
+[center][anchor=op_roadmap]
 
 [b][u]ROADMAP[/u][/b]
 
@@ -196,7 +199,8 @@ Radio in wallet chill and trade : work in progress
 [url=https://github.com/flavorcoin/FlavorCoin-V2][img height=64 width=64]http://i.imgur.com/A6oq4Ip.jpg[/img][/url][/center]
    [/td]
    [td]
-[center][anchor=op_researchindextools]
+[center]
+[anchor=op_researchindextools]
 [b][u]Research Index Tools[/u][/b]
 
 [url=https://coinmarketcap.com/currencies/flavorcoin/][img]http://oi60.tinypic.com/195og0.jpg[/img][/url]
@@ -204,12 +208,14 @@ Radio in wallet chill and trade : work in progress
 [url=https://www.cryptocompare.com/coins/2flav/overview][img height=100 width=100]http://i.imgur.com/0l8f8TE.png[/img][/url]
    [/td]
    [td]
-[center][anchor=op_blockexplorers]
+[center]
+[anchor=op_exchanges]
 [b][u]EXCHANGES[/u][/b]
 
 [url=https://yobit.net/en/trade/2FLAV/BTC][img]https://yobit.net/imginfo/2FLAV[/img][/url][/center]
    [/td][/tr][/table]
-[anchor=op_exchanges][b][u]Block Explorers[/u][/b]
+[anchor=op_blockexplorers]
+[b][u]Block Explorers[/u][/b]
 
 [url=https://chainz.cryptoid.info/2flav/][img]https://chainz.cryptoid.info/theme/cryptoID64.png[/img][/url]
 
@@ -224,13 +230,15 @@ Radio in wallet chill and trade : work in progress
    [table][tr][td]
    [/td]
    [td]
-[center][anchor=op_socialmedia]
+[center]
+[anchor=op_socialmedia]
 [b][u]Social Media[/u][/b]
 
 [url=https://twitter.com/flavorcoin][img]http://i.imgur.com/RUMbFxy.png[/img][/url][/center]
    [/td]
    [td]
-[center][anchor=op_contactus]
+[center]
+[anchor=op_contactus]
 [b][u]Contact Us[/u][/b]
 
 [url=http://Twitter：https://twitter.com/wemcoin]Twitter@flavorcoin[/url]
