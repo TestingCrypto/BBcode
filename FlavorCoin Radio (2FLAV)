@@ -78,12 +78,20 @@ Block 66.101 ++ = 5 FLAV
 
 [u][b]WEBSITE (MUSIC CHANNELS)[/b][/u]
 
-http://lkesson.wixsite.com/flavorcoinradio
+   [table][tr][td]
+   [/td]
+   [td]
+[url=http://lkesson.wixsite.com/flavorcoinradio][img height=128 width=128]http://i.imgur.com/YuZBYMM.png[/img][/url]
+   [/td]
+   [td]
+[url=https://soundcloud.com/flavorcoin][img height=128 width=128]http://i.imgur.com/MzNpbo9.png[/img][/url]
+   [/td]
+   [td]
+[url=http://tunein.com/radio/FlavorCoin-Radio-s268812/][img height=128 width=128]http://i.imgur.com/2QoJKxB.png[/img][/url]
+   [/td]
+   [td]
 
-https://soundcloud.com/flavorcoin
-
-http://tunein.com/radio/FlavorCoin-Radio-s268812/
-
+   [/td][/tr][/table]
 [/center]
 [hr]
 [center]
@@ -183,21 +191,17 @@ Radio in wallet chill and trade : work in progress
 [anchor=op_wallets]
 [center][b][u]WALLETS[/u][/b]
 
-[url=https://mega.nz/#!98ABEJST!UU_rGf6jhtB74GMIgMEcLm7cz2sh5pG5jEU6wutPukI/][img]http://i.imgur.com/wwivKvV.png[/img][/url]
+[url=https://mega.nz/#!98ABEJST!UU_rGf6jhtB74GMIgMEcLm7cz2sh5pG5jEU6wutPukI/][img height=64 width=64]http://i.imgur.com/wwivKvV.png[/img][/url]
 
-[url=https://github.com/flavorcoin/FlavorCoin-V2][img]http://i.imgur.com/A6oq4Ip.jpg[/img][/url][/center]
+[url=https://github.com/flavorcoin/FlavorCoin-V2][img height=64 width=64]http://i.imgur.com/A6oq4Ip.jpg[/img][/url][/center]
    [/td]
    [td]
 [center][anchor=op_researchindextools]
 [b][u]Research Index Tools[/u][/b]
 
-https://coinmarketcap.com/currencies/flavorcoin/
+[url=https://coinmarketcap.com/currencies/flavorcoin/][img]http://oi60.tinypic.com/195og0.jpg[/img][/url]
 
-https://www.cryptocompare.com/coins/2flav/overview
-
-New Explorer http://flavorcoin.thecryptochat.net/
-
-Old Explorer https://chainz.cryptoid.info/2flav/[/center]
+[url=https://www.cryptocompare.com/coins/2flav/overview][img height=100 width=100]http://i.imgur.com/0l8f8TE.png[/img][/url]
    [/td]
    [td]
 [center][anchor=op_exchanges]
@@ -205,6 +209,11 @@ Old Explorer https://chainz.cryptoid.info/2flav/[/center]
 
 [url=https://yobit.net/en/trade/2FLAV/BTC][img]https://yobit.net/imginfo/2FLAV[/img][/url][/center]
    [/td][/tr][/table]
+[anchor=op_exchanges][b][u]Block Explorers[/u][/b]
+
+[url=https://chainz.cryptoid.info/2flav/][img]https://chainz.cryptoid.info/theme/cryptoID64.png[/img][/url]
+
+[url=http://flavorcoin.thecryptochat.net/][img height=100 width=120]http://i.imgur.com/CKK1hiv.png[/img][/url]
 [/center]
 [hr]
 [center]
