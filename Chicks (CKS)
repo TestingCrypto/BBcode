@@ -1,0 +1,145 @@
+[center]Im proud to announce the new rare Scrypt Coin:
+[/center]
+
+[center][size=20pt][color=red]We are now on Novaexchange. Thx to all.[/color][/size][/center]
+
+[center]--------------------------------------------------------------------------------------------------------------------------------------------[/center]
+
+[center][b][size=40pt]CHICKS[/size][/b][/center]
+[center]
+
+[center]--------------------------------------------------------------------------------------------------------------------------------------------[/center]
+
+
+[center]
+Algorithm                    Scrypt
+Type                          PoW/PoS
+Coin name                   Chicks
+Coin abbreviation          CKS
+Address letter              C
+RPC port                     10124
+P2P port                     10123
+
+Block reward                2 coins
+Total coin supply          884211 coins
+Premine percent    5%(for the big reward system)
+PoS percentage           25% per year
+
+Coinbase maturity        10 blocks
+Target spacing             64 seconds
+Target timespan           1 block
+Transaction confirmations 5 blocks[/center]
+
+[center]--------------------------------------------------------------------------------------------------------------------------------------------[/center]
+
+[center]
+windows wallet: 
+https://mega.nz/#!4YRzyY6S!kx69KHcNeaZKz9KS0wHhEacAmdeJqDX6QkhhMyPytQA
+
+linux wallet:
+https://mega.nz/#!wZYD0Bra!xoyqiHsHu1er8D5Dy9bJNHeC7R2G1r95fpEwCLCcP_Y
+
+source code:
+https://github.com/ChicksCoin/chicks-source
+
+blockexplorer:
+http://chicks.acc-pool.pw/
+
+faucet:
+https://www.coinfaucet.co/chicks/
+
+
+exchange:
+https://novaexchange.com/market/BTC_CKS/[/center]
+
+[center]--------------------------------------------------------------------------------------------------------------------------------------------[/center]
+
+[center]
+[size=20pt][b]Roadmap:
+[/b][/size][/center]
+[center][s]1. Get a pool[/s]
+[s]2. Coin on exchange[/s]
+[s]3. Get a faucet[/s] On Cryptochat the next days
+4. Get more coins from the unique reward system
+5. Signature campaign
+6. Get a bigger community[/center]
+
+
+[center]--------------------------------------------------------------------------------------------------------------------------------------------[/center]
+
+[center][b][size=20pt]Bounty and rewards[/size]:[/b][/center]
+
+[center][s]first pool:                         1000 Coins[/s]
+[s]second pool:                      500 Coins[/s]
+[s]blockexplorer:                   2000 Coins[/s]
+
+[s]creating logo:                     200 Coins[/s]
+[s]creating signature campaign: 100 Coins[/s]
+[s]faucet:                              300 Coins[/s]
+[s]adding on other sites:          40 Coins[/s]
+
+[size=10pt][color=red]vote daily reward on Tradesatoshi:               5 Coins[/color][/size]
+
+[/center]
+
+[center]--------------------------------------------------------------------------------------------------------------------------------------------[/center]
+
+
+
+
+[center]--------------------------------------------------------------------------------------------------------------------------------------------[/center]
+
+[center][b]Mining:[/b][/center]
+
+
+[center]
+[size=20pt][color=red]Cryptomine.co.uk Pool[/color][/size]
+
+Homepage - www.cryptomine.co.uk
+
+
+http://Cryptomine.co.uk:8080/getting_started
+
+Configure Your Miners
+
+stratum+tcp://Cryptomine.co.uk:9032-u YOUR WALLET -p x
+
+ports vardriff
+ Port: 9031, Diff: 8 Port: 9032, Diff: 256 Port: 9033, Diff: 18192       
+ 
+
+Happy Mining  Smiley Payouts are every 30 mins after blocks has been confirmed Min payout -
+
+Twitter: https://twitter.com/Cryptoman82 - Skype - cryptominers.online[/center]
+
+
+[center]--------------------[/center]
+
+[center][size=20pt][color=red]theminingpool.mine.nu[/color][/size]
+
+No registration needed, just use your wallet adress as username and no password needed.
+
+example for Chicks Coin [CHK]
+
+stratum+tcp://theminingpool.mine.nu:6620 -u YOURWALLETHERE -p x
+
+
+Port: 6620, VarDiff[/center]
+[center]
+--------------------[/center]
+
+
+[center][size=10pt][color=red]Cryptopool . tk[/color][/size]
+
+
+No registration needed, just use your wallet address as username and no password needed.
+
+stratum+tcp://Cryptopool . tk:PORT -u YOURWALLETHERE -p x
+Port: 3010, Diff: 8   |   Port: 4010, Diff: 32   |   Port: 5010, Diff: 256   |   Port: 6010, Diff: 8192
+
+Payouts are every 15 mins after blocks has been confirmed
+
+--------------------
+
+altcoinix.com/chicks/public
+[/center]
