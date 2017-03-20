@@ -1,0 +1,130 @@
+[quote author=Tobler link=topic=923995.msg10142917#msg10142917 date=1421185896]
+[center][img]http://i.imgur.com/G3CjgcJ.jpg[/img][/center]
+
+[center]Launch: 7:00 AM Monday, January 19, 2015 UTC[/center]
+
+[center][b]Website:[/b] [url=http://geocoin.cash/]http://geocoin.cash/[/url][/center]
+[center][b]Website:[/b] [url=http://geo.money/]http://geo.money/[/url][/center]
+[center][b]Twitter:[/b] [url=https://twitter.com/geo_coin]https://twitter.com/geo_coin[/url][/center]
+
+[center]
+[u][b]Specs[/b][/u]
+ 
+Algorithm: Qubit
+
+Block time: 1 minute
+ 
+Number of POW blocks: 5,000,000
+ 
+Block Rewards:
+1: 34000 (0.5% premine)
+2-100 (0 instamine protection)
+101-40,000: 10 (~ 1 month)
+40,001-80,000:9 (~ 1 month)
+80,001-120,000:8 (~ 1 month)
+120,001-160,000:7 (~ 1 month)
+160,001-200,000:6 (~ 1 month)
+200,001-240,000:5 (~ 1 month)
+240,001-280,000:4 (~ 1 month)
+280,001-320,000:3 (~ 1 month)
+320,001-360,000:2 (~ 1 month)
+360,001-5,000000:1 (~ 9 years)
+ 
+
+
+[u][b]Block Explorer[/b][/u]
+
+[url=http://104.236.52.122:3006/]http://104.236.52.122:3006/[/url]
+
+Premine address: [url=http://104.236.52.122:3006/address/GQG8W8MnW9sKkcqesmjdQFmJ8NqxvVj95Q]http://104.236.52.122:3006/address/GQG8W8MnW9sKkcqesmjdQFmJ8NqxvVj95Q[/url]
+
+
+
+[u][b]Wallets[/b][/u]
+
+Source: [url=https://github.com/onetimer/onetimer]https://github.com/onetimer/onetimer[/url]
+
+Windows wallet: 
+[url=http://geo.money/images/geocoin-qt-windows.zip]http://geo.money/images/geocoin-qt-windows.zip[/url]
+
+Mac wallet: 
+[url=http://geo.money/images/Geocoin-Qt.dmg]http://geo.money/images/Geocoin-Qt.dmg[/url]
+
+
+
+[u][b]Mining Configuration:[/b][/u]
+
+Create a geocoin.conf file in your %AppData% directory (usually c:\Users\username\AppData\Roaming\GeoCoin )
+
+geocoin.conf
+
+rpcuser=geocoinminerman
+rpcpassword=secretgeopassword
+rpcallowip=127.0.0.1
+rpcallowip=192.168.0.*
+daemon=1
+server=1
+listen=1
+rpcport=9749
+addnode=104.236.52.122
+
+The rpcuser and rpcpassword will be used in the mining command.
+
+[u][b]Mining:[/b][/u]
+
+The qubit algorithm is minable with CPU or GPU hashing power.
+
+GPU
+Any sgminer that supports qubit algorithm such as sph-sgminer_x13mod: https://mega.co.nz/#!3ZojVDpD!V2CfUV0rZJSoeHJBSnB4oBoF-2IRhbs_FARxrwVgOxM
+
+Example command:
+sgminer -k qubitcoin -o 127.0.0.1:9749 -u geocoinminerman -p secretgeopassword -I 16 -g 4 -w 128 --difficulty-multiplier 256
+
+CPU
+Any cpuminer that supports qubit such as https://github.com/ig0tik3d/QubitCoin-cpuminer-v.1.1
+
+Example Command:
+minerd -a qubit -o 127.0.0.1:9749 -u geocoinminerman -p secretgeopassword
+
+
+[u][b]Pools[/b][/u]
+
+[url=https://geo.suprnova.cc]https://geo.suprnova.cc[/url]
+[url=https://geo.maxminers.net]https://geo.maxminers.net[/url]
+[url=https://www.miners-pool.eu/#!/pools/geocoin]https://www.miners-pool.eu/#!/pools/geocoin[/url]
+[url=http://geocoin.miningpoolhub.com]http://geocoin.miningpoolhub.com[/url] - Mining Pool Hub is N:N multipool, you can mine the most profitable coin and get paid in Geocoin.
+[url=http://www.zpool.ca]www.zpool.ca[/url] - Multipool
+
+
+[u][b]Exchanges[/b][/u]
+
+[img]https://www.poloniex.com/images/theme_light/poloniex.png[/img]
+[url=https://poloniex.com/exchange#btc_geo]https://poloniex.com/exchange#btc_geo[/url]
+
+[img]https://s3-us-west-1.amazonaws.com/umbrellaholdings/ip.bitcointalk.gif[/img]
+[url=https://bittrex.com/Market/Index?MarketName=BTC-GEO]https://bittrex.com/Market/Index?MarketName=BTC-GEO[/url]
+
+[img]https://www.cryptopia.co.nz/Content/Images/Cryptopia2.png[/img]
+[url=https://www.cryptopia.co.nz/Exchange/1328]https://www.cryptopia.co.nz/Exchange/1328[/url]
+
+[img]https://yobit.net/images/logo.png[/img] 
+[url=https://yobit.net/en/trade/GEO/BTC]https://yobit.net/en/trade/GEO/BTC[/url]
+
+
+
+[u][b]Crypto Services[/b][/u]
+
+[img]https://www.cryptonator.com/ui/img/logo-no-text.png[/img]
+[url=https://www.cryptonator.com/rates/GEO-BTC]https://www.cryptonator.com/rates/GEO-BTC[/url]
+
+Coinmarketcap:
+[url=http://coinmarketcap.com/currencies/geocoin/]http://coinmarketcap.com/currencies/geocoin/[/url]
+
+
+[u][b]Translations[/b][/u]
+
+German: [url=https://bitcointalk.org/index.php?topic=1390500]https://bitcointalk.org/index.php?topic=1390500[/url]
+Chinese: [url=https://bitcointalk.org/index.php?topic=973465]https://bitcointalk.org/index.php?topic=973465[/url]
+Indonesian: [url=https://bitcointalk.org/index.php?topic=1079898.0]https://bitcointalk.org/index.php?topic=1079898.0[/url]
+[/center]
+[/quote]
