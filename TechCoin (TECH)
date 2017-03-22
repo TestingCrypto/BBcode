@@ -1,6 +1,6 @@
 [center]
 [anchor=op_intro]
-[b][color=#0404B4]Most recent original post edit made: Sunday, February 26, 2017
+[b][color=#0404B4]Most recent original post edit made: Wednesday, March 22, 2017
 [url=http://tech-commons.wix.com/tech-coin-community][img]http://oi57.tinypic.com/2i2acgl.jpg[/img][/url]
 [/center]
 [hr]
@@ -18,9 +18,9 @@ RPC Port: 57698 P2P Port: 57697
 X13 (marucoin algo) PoW: 186,985 TECH ending @ block 5000
 PoS Minimum Stake Age: 1 Hour (12 Blocks)
 PoS @ Block 5000 / PoS Annual Interest 4%
-Max Coins: ~300,000 TECH after 12-13 years
+Max Coins: 300,000 TECH (after 12-13 years)
 [b][u]System Requirements:[/u][/b]
-168MB disk space | 62.1-160MB RAM/memory
+>200MB disk space | >175MB RAM/memory
 (this will very as the chain grows)
 [b][u]1.2 | 1.1.4.1 deps:[/u][/b]
 mgw48-mt-s-1_55
@@ -174,7 +174,7 @@ qrencode-3.4.3
 [iurl=#op_communityinterest][img height=20 width=20]https://i.imgur.com/qrlmmAP.png[/img][/iurl]*--^--*[iurl=#op_intro][img height=20 width=20]https://i.imgur.com/X523CG1.png[/img][/iurl]*--^--*[url=http://tech-commons.wix.com/tech-coin-community][img height=20]http://oi57.tinypic.com/2i2acgl.jpg[/img][/url]*--^--*[iurl=#op_intro][img height=20 width=20]https://i.imgur.com/X523CG1.png[/img][/iurl]*--^--*[iurl=#op_communityinterest][img height=20 width=20]https://i.imgur.com/qrlmmAP.png[/img][/iurl]
 [/center]
 [hr]
-[anchor=op_forums]
+[anchor=op_translations]
 [u][b][font=Verdana, Arial][size=14pt] Translations [/size][/font][/b][/u]
    [table][tr][td]
    [/td]
@@ -232,7 +232,7 @@ Please send any updates via PM, to add or change your pledge address here (Zero 
 [center]
 [size=18pt][u][b][font=Verdana, Arial]TECH (community interests)[/b][/u][/size]
 [size=12pt][u][b][font=Verdana, Arial]PM with any community contact, optional additions:[/b][/u][/size]
-
+| [url=https://tradesatoshi.com/Vote]Tradesatoshi.com Vote[/url] | [url=https://poswallet.com/addcoin.php]PoSWallet.com Vote[/url] |
 [url=https://bitcointalk.org/index.php?action=profile;u=352756][img]http://oi58.tinypic.com/b876o2.jpg[/img][/url]
 [/center]
 [hr]
