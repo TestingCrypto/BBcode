@@ -1,22 +1,12 @@
-[quote author=cryptostiltskin link=topic=1823432.msg18160784#msg18160784 date=1489339546]
 [center]
 
-[img]http://i.imgur.com/UXrATla.jpg[/img]
+[img]http://i.imgur.com/NGvgijq.gif[/img]
 
-Ever wish you could show your appreciation to someone in a big way? Now you can! Honey is a cryptocurrency made specifically for use as a token of appreciation.
-Honey has a low supply cap to ensure that HONEY coins are only passed out on occasions where someone has genuinely been helped out. 
+Show someone you care with the only cryptocurrency made specifically for use as a token of appreciation.
+HONEY is available at [url=https://www.coinexchange.io/market/HONEY/BTC]CoinExchange[/url] so drop by there and get your's today!
 
-SPECIAL THANKS
 
-A HUGE thank you to CryptoCoderz [url=https://bitcointalk.org/index.php?action=profile;u=515647]https://bitcointalk.org/index.php?action=profile;u=515647[/url] for providing code assistance and a compiled Windows wallet. Working with him was a great experience!
-
-Thank you very much cryptochat and CryptoCypher at [url=https://thecryptochat.net/]https://thecryptochat.net/[/url] for the main node and online block explorer. Response times and service are amazing!
-
-I want to thank ztumppi [url=https://bitcoingarden.org/forum/index.php?action=profile;u=7219]https://bitcoingarden.org/forum/index.php?action=profile;u=7219[/url] for providing big support with a seednode.
-
-[img]http://i.imgur.com/zdO1reW.png[/img]
-
-HONEY SPECIFICATIONS
+[b]HONEY SPECIFICATIONS[/b]
 --------------
 Type:                                POW/POS Hybrid
 Algorithm:                                        Blake2s
@@ -36,48 +26,42 @@ Network Info:
 P2P Port: 7799       Testnet P2P Port: 17799
 RPC Port: 9977      Testnet RPC Port: 19977
 
+[img]http://i.imgur.com/ckLSu7t.png[/img]
 
-Wallets:
-
-Source:
-[url=https://github.com/cryptofun/honey]https://github.com/cryptofun/honey[/url]
-
-Linux:
-[url=https://github.com/cryptofun/honey/releases/download/v1.0.0.1/honey-qt-v1.0.0.1-linux-x84_64.zip]https://github.com/cryptofun/honey/releases/download/v1.0.0.1/honey-qt-v1.0.0.1-linux-x84_64.zip[/url]
-
-Mac:
-https://github.com/cryptofun/honey/releases/download/v1.0.0.1/honey-qt-v1.0.0.1-osx.zip
-
-Windows:
-https://github.com/cryptofun/honey/releases/download/v1.0.0.1/honey-qt-v1.0.0.1.zip
-
-Android:
-Coming Soon
-
-IOS:
-Coming Soon
+[b]Wallets:[/b]
+[url=https://github.com/cryptofun/honey]Source[/url]
+[url=https://github.com/cryptofun/honey/releases/download/v1.0.0.1/honey-qt-v1.0.0.1-linux-x84_64.zip]Linux[/url]
+[url=https://github.com/cryptofun/honey/releases/download/v1.0.0.1/honey-qt-v1.0.0.1-osx.zip]Mac[/url]
+[url=https://github.com/cryptofun/honey/releases/download/v1.0.0.1/honey-qt-v1.0.0.1.zip]Windows[/url]
+Android: Coming Soon
+IOS: Coming Soon
 
 
-ONLINE BLOCK EXPLORER:
-http://honey.thecryptochat.net/
+[b]BLOCK EXPLORERS:[/b]
+[url=http://honey.thecryptochat.net/]The Crypto Chat[/url]
+[url=https://pool.coin-miners.info/explorer/HONEY]coin-miners[/url]
 
 MINING POOL:
-[url=https://pool.coin-miners.info/]https://pool.coin-miners.info/[/url]
+[url=https://pool.coin-miners.info/]coin-miners/[/url]
 
 EXCHANGES:
-CoinExchange: [url=https://www.coinexchange.io/market/HONEY/BTC]https://www.coinexchange.io/market/HONEY/BTC[/url]
+[url=https://www.coinexchange.io/market/HONEY/BTC]CoinExchange[/url]
 
-Voting has startd on C-Cex [url=https://c-cex.com/?id=vote]https://c-cex.com/?id=vote[/url]
+[url=https://www.tradesatoshi.com/Vote]Voting has started on Trade Satoshi[/url]
+[url=https://c-cex.com/?id=vote]Voting has started on C-Cex[/url]
 
-STAKING POOL:
-Voting has started on POSWallet [url=https://poswallet.com/addcoin.php]https://poswallet.com/addcoin.php[/url]
+EXCHANGE AND STAKING POOL:
+[url=https://poswallet.com/addcoin.php]Voting has started on POSWallet[/url]
 
 FAUCET:
-[url=https://thecryptochat.net/honey.php]https://thecryptochat.net/honey.php[/url]
+[url=https://thecryptochat.net/honey.php]HONEY Faucet[/url]
 
 Daemon Features:
 -Cookie Authentication
    - There is no need for the rpcuser/password parameters in honey.conf to run the daemon.
+    For a headless staking node all you need is:
+    [code]daemon=1[/code]
+
    - They can still be defined, but if not, an authentication cookie file will be generated in the 
      .honey directory and deleted on shutdown. So one less step to take to run a headless node for staking.
      Example setup for honey.conf is:
@@ -92,29 +76,37 @@ Daemon Features:
     rpcallowip=127.0.0.1
     [/code]
 
-    For a headless staking node:
-    [code]daemon=1[/code]
-
 QT GUI Wallet Features:
 -Integrated block explorer
 -Two themes, default light theme and an optional dark theme
 -More features to come
 
+[img]http://i.imgur.com/u5B9k2f.png[/img]
 
 BOUNTIES, GIVEAWAYS, & MORE
 
-No premine = no bounties, giveaways, or anything else at the moment.
-I will announce any bounties or giveaways in the future as they become available.
+I will announce any bounties or giveaways as they become available.
 
-ALL BOUNTIES AND GIVEAWAYS will be done at [url=https://thecryptochat.net]https://thecryptochat.net[/url]
+I welcome all PMs. Thank you.
 
-I welcome all PMs at the chat. Thank you.
+SPECIAL THANKS
 
-Any donations are welcome for support, and thanks in advance to any donators!
+NODES:
+[url=https://thecryptochat.net]The Crypto Chat[/url]
+[url=https://bitcoingarden.org/forum/index.php?action=profile;u=7219]ztumppi[/url]
+[url=https://bitcointalk.org/index.php?action=profile;u=356769]staysecure[/url]
+
+BLOCK EXPLORERS:
+[url=https://thecryptochat.net]The Crypto Chat[/url]
+[url=https://pool.coin-miners.info/explorer/HONEY]coin-miners[/url]
+
+CODE ASSISTANCE:
+[url=https://bitcointalk.org/index.php?action=profile;u=515647]CryptoCoderz[/url]
+
+
+[b]Any donations will be used to support nodes and the development team. Thanks in advance for for your support![/b]
+
 HONEY                                         HXZspdn8ocVXhEdPhHhfhuKrvJQWEMYeTK
-BTC                                                12WeBeUqUMMXzufsePoffhLPf86LqJ4PWQ
-POSW                                          PWhzcSZsEG8w9wUuqwpmjCdCJS5KinNeaD
+BTC                                               1EcPHTexEqSFLETxJ5oeXMXNe24GFhyn2s
+DOGE                                        DHsMbxEHk8Dc7BGZ8xZWEE1aDgViP2AWJm
 [/center]
-
-
-[/quote]
