@@ -119,14 +119,22 @@ minerd -a qubit -o 127.0.0.1:9749 -u geocoinminerman -p secretgeopassword
    
 [/td][/tr][/table]
 
-[u][b]Crypto Services[/b][/u]
+[u][b]Crypto Index Services[/b][/u]
 
-[img]https://www.cryptonator.com/ui/img/logo-no-text.png[/img]
-[url=https://www.cryptonator.com/rates/GEO-BTC]https://www.cryptonator.com/rates/GEO-BTC[/url]
+   [table][tr][td]
+   [/td]
+   [td][b]cryptonator:[/b]
+[url=https://www.cryptonator.com/rates/GEO-BTC][img]https://www.cryptonator.com/ui/img/logo-no-text-white.png[/img][/url]
+   [/td]
+   [td][b]coinmarketcap:[/b]
+[url=http://coinmarketcap.com/currencies/geocoin/][img]http://i.imgur.com/3AWBtCv.jpg[/img][/url]
+   [/td]
+   [td]
 
-Coinmarketcap:
-[url=http://coinmarketcap.com/currencies/geocoin/]http://coinmarketcap.com/currencies/geocoin/[/url]
-
+   [/td]
+   [td]
+   
+[/td][/tr][/table]
 
 [u][b]Translations[/b][/u]
 
