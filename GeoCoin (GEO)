@@ -1,6 +1,3 @@
-[quote author=Tobler link=topic=923995.msg10142917#msg10142917 date=1421185896]
-[center][img]http://i.imgur.com/G3CjgcJ.jpg[/img][/center]
-
 [center]Launch: 7:00 AM Monday, January 19, 2015 UTC[/center]
 
 [center][b]Website:[/b] [url=http://geocoin.cash/]http://geocoin.cash/[/url][/center]
@@ -97,20 +94,21 @@ minerd -a qubit -o 127.0.0.1:9749 -u geocoinminerman -p secretgeopassword
 
 
 [u][b]Exchanges[/b][/u]
+   [table][tr][td]
+   [/td]
+   [td]
+[url=https://bittrex.com/Market/Index?MarketName=BTC-GEO][img]https://bittrex.com/Content/img/logos/bittrex-logo-transparent.png[/img][/url]
+   [/td]
+   [td]
+[url=https://yobit.net/en/trade/GEO/BTC][img]https://yobit.net/imginfo/GEO[/img][/url]
+   [/td]
+   [td]
 
-[img]https://www.poloniex.com/images/theme_light/poloniex.png[/img]
-[url=https://poloniex.com/exchange#btc_geo]https://poloniex.com/exchange#btc_geo[/url]
-
-[img]https://s3-us-west-1.amazonaws.com/umbrellaholdings/ip.bitcointalk.gif[/img]
-[url=https://bittrex.com/Market/Index?MarketName=BTC-GEO]https://bittrex.com/Market/Index?MarketName=BTC-GEO[/url]
-
-[img]https://www.cryptopia.co.nz/Content/Images/Cryptopia2.png[/img]
-[url=https://www.cryptopia.co.nz/Exchange/1328]https://www.cryptopia.co.nz/Exchange/1328[/url]
-
-[img]https://yobit.net/images/logo.png[/img] 
-[url=https://yobit.net/en/trade/GEO/BTC]https://yobit.net/en/trade/GEO/BTC[/url]
-
-
+[url=https://www.cryptopia.co.nz/Exchange/?market=GEO_BTC][img]https://www.cryptopia.co.nz/Content/Images/Cryptopia2.png[/img][/url]
+   [/td]
+   [td]
+   
+[/td][/tr][/table]
 
 [u][b]Crypto Services[/b][/u]
 
@@ -127,4 +125,3 @@ German: [url=https://bitcointalk.org/index.php?topic=1390500]https://bitcointalk
 Chinese: [url=https://bitcointalk.org/index.php?topic=973465]https://bitcointalk.org/index.php?topic=973465[/url]
 Indonesian: [url=https://bitcointalk.org/index.php?topic=1079898.0]https://bitcointalk.org/index.php?topic=1079898.0[/url]
 [/center]
-[/quote]
