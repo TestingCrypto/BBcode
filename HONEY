@@ -1,5 +1,10 @@
-[quote author=cryptostiltskin link=topic=1823432.msg18160784#msg18160784 date=1489339546]
 [center]
+
+[b]THERE WILL BE A SOFT FORK AT BLOCK 22000 IMPLEMENTING DGWv3[/b]
+[b]THIS SHOULD FIX THE DIFFICULTY ISSUES AND BLOCK TIMES[/b]
+[b]IF YOU HAVE A MAC WALLET PLEASE SEND YOUR COINS TO THE EXCHANGE OR BUILD FROM SOURCE[/b]
+
+[b]More news coming soon![/b]
 
 [img]http://i.imgur.com/NGvgijq.gif[/img]
 
@@ -12,8 +17,7 @@ HONEY is available at [url=https://www.coinexchange.io/market/HONEY/BTC]CoinExch
 Type:                                POW/POS Hybrid
 Algorithm:                                        Blake2s
 Difficulty Retarget:                     Every Block
-Block Time:             1 Minute < Block 20000
-                             3 Minutes > Block 20000
+Block Time:                                   3 Minutes
 POW Block Reward:                     1 HONEY
 POS Block Reward:                      2 HONEY
 Coinbase Maturity:                          5 Blocks
@@ -31,9 +35,8 @@ RPC Port: 9977      Testnet RPC Port: 19977
 
 [b]Wallets:[/b]
 [url=https://github.com/cryptofun/honey]Source[/url]
-[url=https://github.com/cryptofun/honey/releases/download/v1.0.0.1/honey-qt-v1.0.0.1-linux-x84_64.zip]Linux[/url]
-[url=https://github.com/cryptofun/honey/releases/download/v1.0.0.1/honey-qt-v1.0.0.1-osx.zip]Mac[/url]
-[url=https://github.com/cryptofun/honey/releases/download/v1.0.0.1/honey-qt-v1.0.0.1.zip]Windows[/url]
+[url=https://github.com/cryptofun/honey/releases/download/v1.0.2.1/honey-qt_v1.0.2.1.zip]Windows[/url]
+Mac: Coming Soon
 Android: Coming Soon
 IOS: Coming Soon
 
@@ -41,9 +44,10 @@ IOS: Coming Soon
 [b]BLOCK EXPLORERS:[/b]
 [url=http://honey.thecryptochat.net/]The Crypto Chat[/url]
 [url=https://pool.coin-miners.info/explorer/HONEY]coin-miners[/url]
+[url=http://yiimp.ccminer.org/explorer/HONEY]ccminer[/url]
 
 MINING POOL:
-[url=https://pool.coin-miners.info/]coin-miners[/url]
+[url=https://pool.coin-miners.info/site/mining]coin-miners[/url]
 [url=http://yiimp.ccminer.org/site/mining]yiimp.ccminer.org[/url]
 
 EXCHANGES:
@@ -56,7 +60,7 @@ EXCHANGE AND STAKING POOL:
 [url=https://poswallet.com/addcoin.php]Voting has started on POSWallet[/url]
 
 FAUCET:
-[url=https://thecryptochat.net/honey.php]HONEY Faucet[/url]
+[url=https://thecryptochat.net/honey.php]The Crypto Chat[/url]
 
 Daemon Features:
 -Cookie Authentication
@@ -112,6 +116,3 @@ HONEY                                         HXZspdn8ocVXhEdPhHhfhuKrvJQWEMYeTK
 BTC                                               1EcPHTexEqSFLETxJ5oeXMXNe24GFhyn2s
 DOGE                                        DHsMbxEHk8Dc7BGZ8xZWEE1aDgViP2AWJm
 [/center]
-
-
-[/quote]
