@@ -3,10 +3,8 @@
 
 [size=20pt][b]FastNetwork Whitepaper[b][/size]
 
-[url=https://mega.nz/#!0Ec1lDDC!pX3OtO49Js0BSwn8XDGAKQKsmOvrgWROH7V6pgXCsx0]https://mega.nz/#!0Ec1lDDC!pX3OtO49Js0BSwn8XDGAKQKsmOvrgWROH7V6pgXCsx0[/url]
+[url=https://mega.nz/#!0Ec1lDDC!pX3OtO49Js0BSwn8XDGAKQKsmOvrgWROH7V6pgXCsx0][img]https://i.imgur.com/KLcMhK8.png[/img][/url]
 
-
-[/font]
 [font=Microsoft Jhenghei Light][img]http://i.imgur.com/7T7TzUb.png[/img]
 
 [size=17pt][b]What is FastCash?[/b][/size]
@@ -29,25 +27,25 @@
 Coinbase maturity 20 blocks
 Transaction confirmations 3 blocks[/size]
 
-[size=17pt][b]Windows Wallet[/b][/size]
-
-[size=12pt][url=https://mega.nz/#!wZtCQapR!pfxXmUtBNPgaSKCLTPgkEoBS3csZZdbQI6AeAmBddZk]https://mega.nz/#!wZtCQapR!pfxXmUtBNPgaSKCLTPgkEoBS3csZZdbQI6AeAmBddZk[/url][/size]
-
-
-[size=17pt][b]Mac Wallet[/b][/size]
-
-[size=12pt][url=https://mega.nz/#!ydQFQKbA!Hg2Z-kIa0oivRoN14i9rrX9Cjs_puHh4OkPGbGvOXiM]https://mega.nz/#!ydQFQKbA!Hg2Z-kIa0oivRoN14i9rrX9Cjs_puHh4OkPGbGvOXiM[/url][/size]
-
-
-[size=17pt][b]Source Code[/b][/size]
-
-[size=12pt][url=https://github.com/FastCashTeam/FastCash]https://github.com/FastCashTeam/FastCash[/url][/size]
-
+   [table][tr][td]
+   [/td]
+   [td][center][b]Source:   [/b]
+[url=https://github.com/FastCashTeam/FastCash][img]http://oi58.tinypic.com/x3tuua.jpg[/img][/url][/center]
+   [/td]
+   [td][center][b]Windows:   [/b]
+[url=https://mega.nz/#!wZtCQapR!pfxXmUtBNPgaSKCLTPgkEoBS3csZZdbQI6AeAmBddZk][img]http://oi59.tinypic.com/286s9z4.jpg[/img][/url][/center]
+   [/td]
+   [td][center][b]Mac:   [/b]
+[url=https://mega.nz/#!ydQFQKbA!Hg2Z-kIa0oivRoN14i9rrX9Cjs_puHh4OkPGbGvOXiM][img]http://oi58.tinypic.com/2z8ukvb.jpg[/img][/url][/center]
+   [/td]
+   [td]
+   
+[/td][/tr][/table]
 
 [size=17pt][b]Exchanges[/b][/size]
 
-[size=12pt][url=https://c-cex.com/?p=fch-btc]https://c-cex.com/?p=fch-btc[/url][/size]
-[size=12pt]https://www.coinexchange.io/market/FCH/BTC[/size]
+[url=https://c-cex.com/?p=fch-btc][img]https://c-cex.com/i/c-cex_logo.svg[/img][/url]
+[url=https://www.coinexchange.io/market/FCH/BTC][img]http://i.imgur.com/FbvnUyL.png[/img][/url]
 
 FastNetwork - A Proof-of-Concept layout
 
@@ -73,8 +71,6 @@ ii. Mechanics
                c. Regression Analysis
 VI. Conclusion
 VII. Citations
-
-
 
 [size=12pt]I. Summary
 The FastNetwork ecosystem is a parallel secondary network to the main FastCash network. This system will initially be built with a few functions that will allow it to serve as a very basic decentralized service marketplace with a backing node network allowing all functions to be performed with no central server or entity. The decentralized service marketplace will allow basic network tasks to be bought and sold, such as hosting, exchange of digital assets, advertisement space, as well as data mining on other alternate currency networks. The main incentive for hosting nodes will be service fees accrued from active service contracts. Secondary node incentives will include Hi-PoS rewards only available to node owners, while the main network will remain at a percentage inflation. Node owners will be required to manage a set collateral of FastCash to be accepted by the main network. Upon initial release, the FastNetwork system is planned to begin with a decentralized digital asset exchange and advertising.
