@@ -1,44 +1,12 @@
+[quote author=cryptostiltskin link=topic=1823432.msg18160784#msg18160784 date=1489339546]
 [center]
 
-[b]THERE WILL BE A SOFT FORK AT BLOCK 22000 IMPLEMENTING DGWv3[/b]
-[b]THIS SHOULD FIX THE DIFFICULTY ISSUES AND BLOCK TIMES[/b]
-[b]IF YOU HAVE A MAC WALLET PLEASE SEND YOUR COINS TO THE EXCHANGE OR BUILD FROM SOURCE[/b]
+[img]http://i.imgur.com/yWwwCNs.png[/img]
 
-[b]More news coming soon![/b]
-
-[img]http://i.imgur.com/NGvgijq.gif[/img]
-
-Show someone you care with the only cryptocurrency made specifically for use as a token of appreciation.
-HONEY is available at [url=https://www.coinexchange.io/market/HONEY/BTC]CoinExchange[/url] so drop by there and get your's today!
-
-
-[b]HONEY SPECIFICATIONS[/b]
---------------
-Type:                                POW/POS Hybrid
-Algorithm:                                        Blake2s
-Difficulty Retarget:                     Every Block
-Block Time:                                   3 Minutes
-POW Block Reward:                     1 HONEY
-POS Block Reward:                      2 HONEY
-Coinbase Maturity:                          5 Blocks
-Block Reward Halving:                        Never
-Last PoW Block:                                500000
-PoS Start:                                          Block 1
-Minimum PoS Age:                             1 Hour
-Maximum PoS Age:                              None
-Max Coin Supply:              7000000 HONEY
-Network Info: 
-P2P Port: 7799       Testnet P2P Port: 17799
-RPC Port: 9977      Testnet RPC Port: 19977
-
-[img]http://i.imgur.com/ckLSu7t.png[/img]
+[img]http://i.imgur.com/5ow6V7I.jpg[/img]
 
 [b]Wallets:[/b]
-[url=https://github.com/cryptofun/honey]Source[/url]
-[url=https://github.com/cryptofun/honey/releases/download/v1.0.2.1/honey-qt_v1.0.2.1.zip]Windows[/url]
-Mac: Coming Soon
-Android: Coming Soon
-IOS: Coming Soon
+[url=https://github.com/cryptofun/honey]All Releases[/url]
 
 
 [b]BLOCK EXPLORERS:[/b]
@@ -46,23 +14,38 @@ IOS: Coming Soon
 [url=https://pool.coin-miners.info/explorer/HONEY]coin-miners[/url]
 [url=http://yiimp.ccminer.org/explorer/HONEY]ccminer[/url]
 
-MINING POOL:
+[b]MINING POOL:[/b]
 [url=https://pool.coin-miners.info/site/mining]coin-miners[/url]
-[url=http://yiimp.ccminer.org/site/mining]yiimp.ccminer.org[/url]
+[url=http://yiimp.ccminer.org/site/mining]ccminer[/url]
+[url=https://aikapool.com/honey]AikaPool[/url]
 
-EXCHANGES:
-[url=https://www.coinexchange.io/market/HONEY/BTC]CoinExchange[/url]
+[b]EXCHANGES:[/b]
+[url=https://www.coinexchange.io/market/HONEY/BTC?r=bf72563e]CoinExchange - BTC[/url]
+[url=https://www.coinexchange.io/market/HONEY/ETH?r=bf72563e]CoinExchange - ETH[/url]
+[url=https://www.coinexchange.io/market/HONEY/LTC?r=bf72563e]CoinExchange - LTC[/url]
+[url=https://www.coinexchange.io/market/HONEY/DOGE?r=bf72563e]CoinExchange - DOGE[/url]
+[url=https://poswallet.com/exchange/honey_posw/?referral=cryptostiltskin]PoSWallet[/url]
+[url=https://novaexchange.com/market/BTC_HONEY/]Nova Exchange - BTC[/url]
+[url=https://novaexchange.com/market/LTC_HONEY/]Nova Exchange - LTC[/url]
+[url=https://novaexchange.com/market/KIC_HONEY/]Nova Exchange - KIC[/url]
+[url=https://novaexchange.com/market/ESP2_HONEY/]Nova Exchange - ESP[/url]
+[url=https://novaexchange.com/market/DOGE_HONEY/]Nova Exchange - DOGE[/url]
+[url=https://novaexchange.com/market/PIGGY_HONEY/]Nova Exchange - PIGGY[/url]
+[url=https://novaexchange.com/market/MOON_HONEY/]Nova Exchange - MOON[/url]
 
-[url=https://www.tradesatoshi.com/Vote]Voting has started on Trade Satoshi[/url]
-[url=https://c-cex.com/?id=vote]Voting has started on C-Cex[/url]
 
-EXCHANGE AND STAKING POOL:
-[url=https://poswallet.com/addcoin.php]Voting has started on POSWallet[/url]
+[url=https://www.tradesatoshi.com/Vote]Vote on Trade Satoshi[/url]
+[url=https://c-cex.com/?id=vote]Vote on C-Cex[/url]
+[url=https://mercatox.com/coins/list]Vote on Mercatox[/url]
 
-FAUCET:
+[b]EXCHANGE AND STAKING POOL:[/b]
+[url=https://poswallet.com/login.php?referral=cryptostiltskin]PoSWallet[/url]
+
+[b]FAUCET:[/b]
 [url=https://thecryptochat.net/honey.php]The Crypto Chat[/url]
+[url=https://poswallet.com/login.php?referral=cryptostiltskin]PoSWallet[/url]
 
-Daemon Features:
+[b]Daemon Features:[/b]
 -Cookie Authentication
    - There is no need for the rpcuser/password parameters in honey.conf to run the daemon.
     For a headless staking node all you need is:
@@ -76,43 +59,26 @@ Daemon Features:
     listen=1
     server=1
     daemon=1
-    port=7799
-    rpcport=9977
+    port=40638
+    rpcport=40639
     rpcconnect=127.0.0.1
     rpcallowip=127.0.0.1
     [/code]
 
-QT GUI Wallet Features:
+[b]QT GUI Wallet Features:[/b]
 -Integrated block explorer
 -Two themes, default light theme and an optional dark theme
 -More features to come
 
-[img]http://i.imgur.com/u5B9k2f.png[/img]
-
-BOUNTIES, GIVEAWAYS, & MORE
-
-I will announce any bounties or giveaways as they become available.
-
-I welcome all PMs. Thank you.
-
-SPECIAL THANKS
-
-NODES:
-[url=https://thecryptochat.net]The Crypto Chat[/url]
-[url=https://bitcoingarden.org/forum/index.php?action=profile;u=7219]ztumppi[/url]
-[url=https://bitcointalk.org/index.php?action=profile;u=356769]staysecure[/url]
-
-BLOCK EXPLORERS:
-[url=https://thecryptochat.net]The Crypto Chat[/url]
-[url=http://coin-miners.info]coin-miners[/url]
-
-CODE ASSISTANCE:
-[url=https://bitcointalk.org/index.php?action=profile;u=515647]CryptoCoderz[/url]
+[img]http://i.imgur.com/rlcDwyJ.png[/img]
 
 
 [b]Any donations will be used to support nodes and the development team. Thanks in advance for your support![/b]
-
+[b]
 HONEY                                         HXZspdn8ocVXhEdPhHhfhuKrvJQWEMYeTK
 BTC                                               1EcPHTexEqSFLETxJ5oeXMXNe24GFhyn2s
-DOGE                                        DHsMbxEHk8Dc7BGZ8xZWEE1aDgViP2AWJm
+DOGE                                        DHsMbxEHk8Dc7BGZ8xZWEE1aDgViP2AWJm[/b]
 [/center]
+
+
+[/quote]
