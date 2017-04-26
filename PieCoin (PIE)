@@ -2,35 +2,26 @@
 
 [center][size=22pt][b]P[/b]ersistent [b]I[/b]nformation [b]E[/b]xchange[/size][/center]
 
-
 [center]PIE Pre-sale information:
 
 Pre-sale ended 2017-02-19 18:00 (GMT 0)
 
-[b]357265702.71428585 Unsold PIE burned to address PBCCEX1Burning1Service11111Xa57x15[/b]
-[/center]
+[b]357265702.71428585 Unsold PIE burned to address [url=http://piecoin.thecryptochat.net/address/PBCCEX1Burning1Service11111Xa57x15]PBCCEX1Burning1Service11111Xa57x15[/url][/b]
 
-[center][url=https://coinmarketcap.com/currencies/piecoin/]PIE on Coinmarketcap[/url][/center]
+[url=http://www.piecoin.tech][img]http://www.piecoin.tech/images/logo.png[/img][/url]
 
-[img]http://www.piecoin.tech/images/Pie_Info.png[/img]
+[size=12pt][url=http://www.piecoin.tech]PIE Information[/url]
 
-[center][img]http://www.piecoin.tech/images/logo.png[/img][/center]
-
-[img]http://www.piecoin.tech/images/Pie_Business.png[/img]
-
-[center][img]http://www.piecoin.tech/images/logo.png[/img][/center]
-
-[center][color=green][size=14pt][b]PIE Information[/b][/size][/color]
-
-[size=12pt]Coin Name: PieCoin
+Coin Name: PieCoin
 Ticker Symbol: PIE
 Type: POS
 Initial Supply: 400M PIE
 Burned: ~357M PIE
+Circulating Supply: 71,719,810 PIE
 POS Yield: 20%[/size]
 
 
-Nodes:
+[b]Nodes:[/b]
 
 addnode=91.192.132.29
 addnode=92.111.211.61
@@ -44,39 +35,42 @@ addnode=184.145.18.123
 addnode=74.129.247.214
 addnode=82.165.162.27
 addnode=81.89.100.38
+addnode=62.138.3.214
+addnode=107.170.196.135
+addnode=81.89.100.38
+addnode=195.74.52.227
+addnode=50.83.4.208
+addnode=95.161.142.135
+addnode=91.59.113.132
+addnode=94.20.244.252
+addnode=91.121.66.187
 
+[b]Research Index Tools:[/b]
+[url=https://coinmarketcap.com/currencies/piecoin/]PIE on Coinmarketcap[/url]
 
-Exchanges:
-
+[b]Exchanges:[/b]
 https://c-cex.com/?p=pie-btc
 https://tradesatoshi.com/Exchange/?market=PIE_BTC
 https://novaexchange.com/market/BTC_PIE/
+https://poswallet.com/exchange/pie_posw/
 
+[b]PIE Coin Technology Repo:[/b]
+https://github.com/piecointech
 
-[center][img]http://www.piecoin.tech/images/Pie_Roadmap.png[/img][/center]
+[b]PieCoin Server Node:[/b]
+http://wnode.net/
 
+[b]Windows QT Wallet:[/b]
+http://www.piecoin.tech/downloads/PieCoin-qt.zip
 
-[color=brown][b][size=14pt]PIE Technology Information Website:[/size][/b][/color]
-[size=16pt]http://www.piecoin.tech[/size]
+[b]Mac QT Wallet:[/b]
+http://www.piecoin.tech/downloads/PieCoin-Qt-OSX-v1001.dmg
 
-[color=brown][b][size=14pt]PIE Coin Technology Repo:[/size][/b][/color]
-[size=16pt]https://github.com/piecointech[/size]
+[b]Linux QT Wallet:[/b]
+http://wnode.net/download/PieCoin-qt.zip
 
+[b]Block Explorer:[/b]
+http://piecoin.thecryptochat.net/
 
-[color=brown][b][size=14pt]PieCoin Wallet Downloads:[/size][/b][/color]
-
-[size=16pt]Windows QT Wallet
-http://www.piecoin.tech/downloads/PieCoin-qt.zip[/size]
-
-[size=16pt]Mac QT Wallet
-http://www.piecoin.tech/downloads/PieCoin-Qt-OSX-v1001.dmg[/size]
-
-
-[size=14pt][color=brown][b]Block Explorer[/b][/color]
-http://piecoin.thecryptochat.net/[/size]
-[/center]
-
-
-[center]###[/center]
-
+###[/center]
 [right][size=8pt]This thread is moderated, so play nice.[/size][/right]
