@@ -10,7 +10,11 @@ Pre-sale ended 2017-02-19 18:00 (GMT 0)
 
 [url=http://www.piecoin.tech][img]http://www.piecoin.tech/images/logo.png[/img][/url]
 
-[size=12pt][url=http://www.piecoin.tech]PIE Information[/url]
+   [table][tr][td]
+   [/td]
+   [td]
+
+[size=12pt][url=http://www.piecoin.tech][u]                              PIE Information                              [/u][/url]
 
 Coin Name: PieCoin
 Ticker Symbol: PIE
@@ -20,8 +24,25 @@ Burned: ~357M PIE
 Circulating Supply: 71,719,810 PIE
 POS Yield: 20%[/size]
 
+[b]PIE Coin Technology Repo:[/b]
+https://github.com/piecointech
 
-[b]Nodes:[/b]
+[b]PieCoin Server Node:[/b]
+http://wnode.net/
+
+[b]Windows QT Wallet:[/b]
+http://www.piecoin.tech/downloads/PieCoin-qt.zip
+
+[b]Mac QT Wallet:[/b]
+http://www.piecoin.tech/downloads/PieCoin-Qt-OSX-v1001.dmg
+
+[b]Linux QT Wallet:[/b]
+http://wnode.net/download/PieCoin-qt.zip
+
+   [/td]
+   [td]
+   
+[b][url=http://piecoin.thecryptochat.net/network][u][size=12pt]            Nodes:            [/size][/u][/url][/b]
 
 addnode=91.192.132.29
 addnode=92.111.211.61
@@ -45,6 +66,11 @@ addnode=91.59.113.132
 addnode=94.20.244.252
 addnode=91.121.66.187
 
+ [/td][/tr][/table]
+ 
+[b]Block Explorer:[/b]
+http://piecoin.thecryptochat.net/
+
 [b]Research Index Tools:[/b]
 [url=https://coinmarketcap.com/currencies/piecoin/]PIE on Coinmarketcap[/url]
 
@@ -53,24 +79,6 @@ https://c-cex.com/?p=pie-btc
 https://tradesatoshi.com/Exchange/?market=PIE_BTC
 https://novaexchange.com/market/BTC_PIE/
 https://poswallet.com/exchange/pie_posw/
-
-[b]PIE Coin Technology Repo:[/b]
-https://github.com/piecointech
-
-[b]PieCoin Server Node:[/b]
-http://wnode.net/
-
-[b]Windows QT Wallet:[/b]
-http://www.piecoin.tech/downloads/PieCoin-qt.zip
-
-[b]Mac QT Wallet:[/b]
-http://www.piecoin.tech/downloads/PieCoin-Qt-OSX-v1001.dmg
-
-[b]Linux QT Wallet:[/b]
-http://wnode.net/download/PieCoin-qt.zip
-
-[b]Block Explorer:[/b]
-http://piecoin.thecryptochat.net/
 
 ###[/center]
 [right][size=8pt]This thread is moderated, so play nice.[/size][/right]
