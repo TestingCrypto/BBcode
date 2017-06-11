@@ -1,5 +1,5 @@
 [center]
-[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Wedsenday, March 22, 2017 ~~
+[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Saturday, June 10, 2017 ~~
 **Rebuilding FIRE one branch @ a time, help keep FIRE stable & innovative**
 - FIRE v4.0.1.0 Release (updated graphics, with the idea for a real graphics update)
 
@@ -21,7 +21,7 @@ BBF (PoS) Minimal Stake Age: 1 hour /15 Blocks
 Max Coins: ~150,000
 (Current 98,377 FIRE @ 0.1% average inflation)
 [u]System Requirements:[/u]
-160MB disk space | 53.9-160MB RAM/memory
+172MB disk space | 53.9-172MB RAM/memory
 (this will very as the chain grows)
 [u]4.0 | 4.0.0.1 deps:[/u]
 mgw48-mt-s-1_55
@@ -48,18 +48,52 @@ rpcport=49698
 port=49697
 maxconnections=10
 rpcallowip=127.0.0.1
-addnode=162.220.166.125
-addnode=104.236.167.70
-addnode=78.46.92.72
-addnode=50.64.76.151
-addnode=50.83.4.208
+addnode=104.236.167.70:49697
+addnode=162.220.166.125:49697
+addnode=182.55.186.7:49697
+addnode=50.83.4.208:49697
 [/code]
 rescan=1  //helps sync from new wallet swap, you might have to restart it @ 4000, 4500, 5000 blocks
-rpcport=49698  //set to allow rpc calls
-port=49697  //not really needed, only for mining
+rpcport=49698  //mining
+port=49697  //p2p
 maxconnections=10  //should never need more than 10 nodes, unless masternode or seednode
 rpcallowip=127.0.0.1  //allows the rpc port to be set
-addnode=162.220.166.125  //pull from one of the block explorers above
+addnode=1.1.1.1:49697  //connecting any & all peers
+connect=1.1.1.1:49697 //only allowing certain peers
+   [table][tr][td]
+   [/td][td]
+Block Explorer Info: June 2017
+Chain Age:    1079.4 days
+AVG Block Time:    577 sec.
+Difficulty Max:    79.82680440
+Difficulty Min:    0.00024414
+Transactions Pow:    4000
+Transactions Pos:    157611
+Transactions Regular:    7947
+Transactions Other/Unknown:    157612     
+Transactions Total:    327170
+Operations Funded:    642442
+Operations Empty:    0
+Operations Send:    316054
+Operations Receive:    326388
+Operations Total:    642442
+    [/td]
+    [td]
+Coin Supply:    98579.65707345 FIRE
+Pow Generated Coins:    97496.02194000 FIRE (98.8944%)
+Pos Send:    30224816.95369580 FIRE
+Pos Receive:    30225906.89719920 FIRE
+Pos Generated Coins:    1089.94350340 FIRE (1.1056%)
+Other Send:    0.00000000 FIRE
+Other Receive:    0.00000000 FIRE
+Other Generated Coins:    0.00000000 FIRE (0%)
+Regular Send:    1776220.73278926 FIRE
+Regular Receive:    1776214.42441926 FIRE
+Total Fee:    6.30836999 FIRE
+Funded Addresses:    6017
+Empty Addresses:    7796
+Total Addresses:    13813
+   [/td][/tr][/table]
 [/center]
 [hr]
 [center]
@@ -75,7 +109,7 @@ addnode=162.220.166.125  //pull from one of the block explorers above
 [size=5pt]MD5 ac3cd30bf062592c4b21a16a7bdbd33f
 SHA1 1cfce408873dc8c0137088ee6c99110065e12a23
 SHA256 18e63ab747eff8928a42e10c31da6246b088deefb34bcb809a3fea827e18e43c
-ssdeep393216:Ea1+UipHLvlr/9tfsgvcBKP6oNx1elX7xeqrUmSu7JgMRao4Jsv6tWKFdu9C:YZnEgv2q6own7JVR
+ssdeep393216:Ea1+UipHLvlr/9tfsgvcBKP6oNx1elX7xeqrUmSu7JgMRao4Jsv6tWKFdu9C:YZnEgv2q6own7JVR     
 authentihash  26e260369e61215ed9b8e7e946c91c31b32b0a13e8adcf39be7ca286e8da369e
 imphash  1268d324ec63ed1a4e16e4b3b35e483a
 File size 22.0 MB ( 23117312 bytes )
@@ -86,9 +120,9 @@ Win32 EXE PECompact compressed (generic) (44.6%)
 Win32 Executable (generic) (4.8%)
 Generic Win/DOS Executable (2.1%)
 DOS Executable Generic (2.1%)[/size]
-   [/td][td]
-[center][color=#B40404][i][b][u]FIRE v4.0.1
-(splash screen needs a unique Firecoin (FIRE) design)[/u][/b][/i][/color][/center]
+   [/td]
+   [td]
+[center][color=#B40404][i][b][u]FIRE v4.0.1 (splash screen needs a unique design)[/u][/b][/i][/color][/center]
 
 [url=https://github.com/techcoincommunity/firecoin/releases][size=12pt][i][b]Github | Downloads[/b][/i][/size][/url]
 
@@ -151,26 +185,9 @@ BTC: 1HRAGE69X6qGWmsC1b91c81v5srDzVkAWw  |  FIRE: FANJHAXaumHXKwo1DCr6B43G15YBrk
 [table][tr][td]
  [/td]
  [td]
-[center][url=https://chainz.cryptoid.info/fire/][color=#0080FF][b][u]          CryptoID          [/u][/b][/color][/url]
+[center][url=http://cryptoguru.tk/CurrencyList/index.php?Currency=FIRE][color=#0080FF][b][u]          Cryptoguru          [/u][/b][/color][/url]
 
-[url=https://chainz.cryptoid.info/fire/][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
- [/td]
- [td]
-[center][url=https://www.blocktrail.com/BTC/tx/c0f0ef6059ba8e914dce7aa88788da0d8ff06a95ad8bf3ea85d71d4b67c1fb34][color=#B43104][b][u]                    BlockTrail                    [/u][/b][/color][/url]
-
-[url=https://www.blocktrail.com/BTC/address/1J4SLfCvFCZKMv5WjEYk2qFM4Vj3xBfcXo][color=#B43104][b]          [btc]  1J4SLfCvFCZKMv5WjEYk2qFM4Vj3xBfcXo          [/b][/color][/url][/center]
-[/td][/tr][/table]
-
-Thanks again fairglu, Firecoin (FIRE) Premium Expired on: 2016-10-19
-[/center]
-[hr]
-[center]
-[table][tr][td]
- [/td]
- [td]
-[center][url=http://][color=#0080FF][b][u]          Cryptoguru          [/u][/b][/color][/url]
-
-[url=http://][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
+[url=http://cryptoguru.tk/CurrencyInfo/index.php?Currency=FIRE][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
  [/td]
  [td]
 [center][url=https://www.blocktrail.com/BTC/address/18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa][color=#B43104][b][u]                    BlockTrail                    [/u][/b][/color][/url]
@@ -178,10 +195,13 @@ Thanks again fairglu, Firecoin (FIRE) Premium Expired on: 2016-10-19
 [url=https://www.blocktrail.com/BTC/address/18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa][color=#B43104][b]          [btc]  18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa          [/b][/color][/url][/center]
 [/td][/tr][/table]
 
-Thanks again GrinZ, Firecoin (FIRE) Premium Expired on: 2016-05-17
+Thanks again GrinZ, Firecoin (FIRE) Premium Expires on: 2017-07-15 00:31:53
 [/center]
 [hr]
 [center]
+[size=10pt][color=#B43104]     BTC Donation to Cryptoguru from Testing Crypto    [/color][/size]
+Tx: 078472ce06efd310cd51a09ac3d7301fdfc1e3e670352670318e565d42e7faca //0.0055 BTC
+
 [size=10pt][color=#B43104]     BTC Donation to CryptoID | fairglu from *Sakura*    [/color][/size]
 Tx: b967d60e3de3dff76da6eb962c163cd4ce959fbd1341d486f7a0d38c6cb7232b //0.015 BTC
 
@@ -223,4 +243,21 @@ Chinese  <>  Spanish  <>  Italian  <>  Portuguese  <>  Russian #1 <> Russian #2
 [b][i][color=#B43104][u]WorldCoinIndex[/u][/color][/i][/b]
 
 [url=http://worldcoinindex.com/coin/Firecoin]WorldCoinIndex[/url]
+
+[b][i][u][size=14pt][color=#B43104]            Outdated Block Explorers            [/color][/size][/u][/i][/b]
+
+[table][tr][td]
+ [/td]
+ [td]
+[center][url=https://chainz.cryptoid.info/fire/][color=#0080FF][b][u]          CryptoID          [/u][/b][/color][/url]
+
+[url=https://chainz.cryptoid.info/fire/][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
+ [/td]
+ [td]
+[center][url=https://www.blocktrail.com/BTC/tx/c0f0ef6059ba8e914dce7aa88788da0d8ff06a95ad8bf3ea85d71d4b67c1fb34][color=#B43104][b][u]                    BlockTrail                    [/u][/b][/color][/url]
+
+[url=https://www.blocktrail.com/BTC/address/1J4SLfCvFCZKMv5WjEYk2qFM4Vj3xBfcXo][color=#B43104][b]          [btc]  1J4SLfCvFCZKMv5WjEYk2qFM4Vj3xBfcXo          [/b][/color][/url][/center]
+[/td][/tr][/table]
+
+Thanks again fairglu, Firecoin (FIRE) Premium Expired on: 2016-10-19
 [/center]
