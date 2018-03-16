@@ -1,9 +1,10 @@
+[quote author=FIRE-community link=topic=972809.msg10621398#msg10621398 date=1425224171]
 [center]
-[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Saturday, June 10, 2017 ~~
+[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Tuesday, February 13, 2018 ~~
 **Rebuilding FIRE one branch @ a time, help keep FIRE stable & innovative**
 - FIRE v4.0.1.0 Release (updated graphics, with the idea for a real graphics update)
 
-[b][i][u][size=14pt][color=#B43104]          [url=http://crypto-community.wixsite.com/fire-coin-community]Template Website[/url]          [/color][/size][/u][/i][/b]
+[b][i][u][size=14pt][color=#B43104]          [url=http://bit.ly/2u0GaYL]Template Website[/url]          [/color][/size][/u][/i][/b]
 
 [i][b]~Fire Coin was an X15 (BitBlock) mined coin.
 ~It's in the Bit Block Forging (PoS) only stage.[/b][/i]
@@ -19,11 +20,11 @@ Bit Block Forging (PoS) Started on Block 4000
 BBF (PoS) Minimal Stake Age: 1 hour /15 Blocks
 1% Annual PoS Interest
 Max Coins: ~150,000
-(Current 98,377 FIRE @ 0.1% average inflation)
+(Current 98600 FIRE @ 0.1% average inflation)
 [u]System Requirements:[/u]
-172MB disk space | 53.9-172MB RAM/memory
+>200MB disk space | RAM/memory
 (this will very as the chain grows)
-[u]4.0 | 4.0.0.1 deps:[/u]
+[u]4.0.0.1 deps:[/u]
 mgw48-mt-s-1_55
 boost_1_55_0
 db-4.8.30.NC
@@ -33,9 +34,21 @@ qrencode-3.4.3
 
 [hr]
 [hr]
-[center][url=http://cryptoguru.tk][color=#0080FF][b][u]        Cryptoguru        [/u][/b][/color][/url]
+ [table][tr][td]
+ [/td]
+ [td]
+[center]
+[b][i][u][size=14pt][color=#B43104]               Downloads               [/color][/size][/u][/i][/b]
 
-[url=http://cryptoguru.tk/NetworkInfo/index.php?Currency=FIRE][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
+[url=http://bit.ly/2s8hGLT][size=12pt][i][b]Github | Downloads[/b][/i][/size][/url]
+[/center]
+ [/td]
+ [td]
+[center][b][u][size=14pt][color=#B43104]        Block Explorer        [/color][/size][/u][/b]
+
+[url=http://cryptoguru.tk/NetworkInfo/index.php?Currency=FIRE][b][size=12pt]          Cryptoguru          [/size][/b][/url][/center]
+ [/td][/tr][/table]
+
 
 Just incase anyone else has the same problem: Windows =
 start > type %appdata% in the search bar > open the roaming folder > open the Firecoin folder
@@ -46,17 +59,18 @@ C:\Users\"username"\AppData\Roaming\Firecoin
 rescan=1
 rpcport=49698
 port=49697
-maxconnections=10
+maxconnections=100
 rpcallowip=127.0.0.1
-addnode=104.236.167.70:49697
-addnode=162.220.166.125:49697
-addnode=182.55.186.7:49697
-addnode=50.83.4.208:49697
+addnode=50.83.4.208
+addnode=188.113.196.252
+addnode=104.236.167.70
+addnode=162.220.166.125
+addnode=182.55.186.7
 [/code]
 rescan=1  //helps sync from new wallet swap, you might have to restart it @ 4000, 4500, 5000 blocks
 rpcport=49698  //mining
 port=49697  //p2p
-maxconnections=10  //should never need more than 10 nodes, unless masternode or seednode
+maxconnections=10  //max amont of node connections to allow
 rpcallowip=127.0.0.1  //allows the rpc port to be set
 addnode=1.1.1.1:49697  //connecting any & all peers
 connect=1.1.1.1:49697 //only allowing certain peers
@@ -65,82 +79,21 @@ connect=1.1.1.1:49697 //only allowing certain peers
 Block Explorer Info: June 2017
 Chain Age:    1079.4 days
 AVG Block Time:    577 sec.
-Difficulty Max:    79.82680440
-Difficulty Min:    0.00024414
-Transactions Pow:    4000
-Transactions Pos:    157611
-Transactions Regular:    7947
-Transactions Other/Unknown:    157612     
-Transactions Total:    327170
-Operations Funded:    642442
-Operations Empty:    0
-Operations Send:    316054
-Operations Receive:    326388
-Operations Total:    642442
-    [/td]
-    [td]
-Coin Supply:    98579.65707345 FIRE
-Pow Generated Coins:    97496.02194000 FIRE (98.8944%)
-Pos Send:    30224816.95369580 FIRE
-Pos Receive:    30225906.89719920 FIRE
-Pos Generated Coins:    1089.94350340 FIRE (1.1056%)
-Other Send:    0.00000000 FIRE
-Other Receive:    0.00000000 FIRE
-Other Generated Coins:    0.00000000 FIRE (0%)
-Regular Send:    1776220.73278926 FIRE
-Regular Receive:    1776214.42441926 FIRE
+Coin Supply:    98579.65707345 FIRE          
 Total Fee:    6.30836999 FIRE
 Funded Addresses:    6017
 Empty Addresses:    7796
 Total Addresses:    13813
-   [/td][/tr][/table]
-[/center]
-[hr]
-[center]
-[b][i][u][size=14pt][color=#B43104]               Downloads               [/color][/size][/u][/i][/b]
-
-   [table][tr][td]
    [/td][td]
-[center][color=#B40404][i][b][u]        FIRE v4.0     (old design)        [/u][/b][/i][/color][/center]
-
-[url=https://github.com/techcoincommunity/firecoin/releases][size=12pt][i][b]Github | Downloads[/b][/i][/size][/url]
-
-[u][i][b][color=#B43104]File identification[/color][/b][/i][/u]
-[size=5pt]MD5 ac3cd30bf062592c4b21a16a7bdbd33f
-SHA1 1cfce408873dc8c0137088ee6c99110065e12a23
-SHA256 18e63ab747eff8928a42e10c31da6246b088deefb34bcb809a3fea827e18e43c
-ssdeep393216:Ea1+UipHLvlr/9tfsgvcBKP6oNx1elX7xeqrUmSu7JgMRao4Jsv6tWKFdu9C:YZnEgv2q6own7JVR     
-authentihash  26e260369e61215ed9b8e7e946c91c31b32b0a13e8adcf39be7ca286e8da369e
-imphash  1268d324ec63ed1a4e16e4b3b35e483a
-File size 22.0 MB ( 23117312 bytes )
-File type Win32 EXE
-Magic literalPE32 executable for MS Windows (GUI) Intel 80386 32-bit
-TrID	InstallShield setup (46.2%)
-Win32 EXE PECompact compressed (generic) (44.6%)
-Win32 Executable (generic) (4.8%)
-Generic Win/DOS Executable (2.1%)
-DOS Executable Generic (2.1%)[/size]
-   [/td]
-   [td]
-[center][color=#B40404][i][b][u]FIRE v4.0.1 (splash screen needs a unique design)[/u][/b][/i][/color][/center]
-
-[url=https://github.com/techcoincommunity/firecoin/releases][size=12pt][i][b]Github | Downloads[/b][/i][/size][/url]
-
-[color=#B40404][u][i][b]File identification[/b][/i][/u][/color]
-[size=5pt]MD5 3f923a03eb5239a6fb1b811b36d4b462
-SHA1 63eaf9063a2df1bb0093acfcd18a338ceda2b6a8
-SHA256 b53073c4909f3b1448da8c962710354d238edf8352a4d94f3f61ec0574b508c0
-ssdeep393216:RR8hQZP5AbSBOCPZmXm94c8eNdgl3pfHHUp/t37tgMRa6ZJsv6tWKFdu9CqC:JTRmXgP8ecs7tVReC
-authentihash  a1775fcd68c1f0ff65b8fed3a869b029bca0c51028ed069f4f33969ece7ab79b
-imphash  1268d324ec63ed1a4e16e4b3b35e483a
-File size 22.1 MB ( 23174656 bytes )
-File type Win32 EXE
-Magic literalPE32 executable for MS Windows (GUI) Intel 80386 32-bit
-TrID	InstallShield setup (46.2%)
-Win32 EXE PECompact compressed (generic) (44.6%)
-Win32 Executable (generic) (4.8%)
-Generic Win/DOS Executable (2.1%)
-DOS Executable Generic (2.1%)[/size]
+Block Explorer Info: July 2017
+Chain Age:    1098.3 days
+Synchronisation speed:    98 blocks/day
+AVG Block Time:    578 seconds
+Coin Supply:    98594.12973270 FIRE
+Total Fee:    6.63123000 FIRE
+Funded Addresses:    6484
+Empty Addresses:    7984
+Total Addresses:    14468
    [/td][/tr][/table]
 [/center]
 [hr]
@@ -169,19 +122,16 @@ DOS Executable Generic (2.1%)[/size]
  [/td]
  [td]
 [b][i][u][size=12pt][color=#B43104]        Games        [/color][/size][/u][/i][/b]
-
-[center][url=https://firecoindice.kranzworthmedia.com]kranzworthmedia.com[/url][/center]
  [/td]
  [td]
 [b][i][u][size=12pt][color=#B43104]        Faucets        [/color][/size][/u][/i][/b]
-
-[center][url=http://cryptoguru.tk/Faucet/index.php?Currency=FIRE]Cryptoguru.tk[/url][/center]
+[center][url=http://cryptoguru.tk/Faucet/index.php?Currency=FIRE]Cryptoguru.tk[/url]
  [/td][/tr][/table]
 [/center]
 [hr]
 [center]
 [b][i][u][size=14pt][color=#B43104]     Community Development Funds | Tips | Donations    [/color][/size][/u][/i][/b]
-BTC: 1HRAGE69X6qGWmsC1b91c81v5srDzVkAWw  |  FIRE: FANJHAXaumHXKwo1DCr6B43G15YBrkUPfn
+BTC: 1HRAGE69X6qGWmsC1b91c81v5srDzVkAWw  |  FIRE: FB6Ws7GTBvMQcEoFz6zSTMYFQyEtm3aiPf
 [table][tr][td]
  [/td]
  [td]
@@ -199,6 +149,9 @@ Thanks again GrinZ, Firecoin (FIRE) Premium Expires on: 2017-07-15 00:31:53
 [/center]
 [hr]
 [center]
+[size=10pt][color=#B43104]     BTC Donation to Cryptoguru from Testing Crypto    [/color][/size]
+Tx:  8bd5a9a3b1ed08bd84c5d549aba0805ed43ee8671103cb9bd03e51ed76df18e7 //0.005 BTC
+
 [size=10pt][color=#B43104]     BTC Donation to Cryptoguru from Testing Crypto    [/color][/size]
 Tx: 078472ce06efd310cd51a09ac3d7301fdfc1e3e670352670318e565d42e7faca //0.0055 BTC
 
@@ -218,6 +171,58 @@ Tx: dffabef98fd8ba99cd1bdf56f94be8a17cf5e6d06b1c92944990f461a08ed628  //500 FIRE
 [size=10pt][color=#B43104]     FIRE Donation from *Sakura* to cecilbdemented    [/color][/size]
 Tx: 5f350cf29856dd4cc6989310594f10e1638178702097c6d6bcfa96f8e45f178b  //500 FIRE
 [/center]
+[hr]
+[center][b][i][u][size=14pt][color=#B43104] Rich List (8/21/2017): [/color][/size][/u][/i][/b]
+1 	F8pzq2eDheK85pBwyreqiDe7cuFH4rsGLo 	2014-10-25 11:29:29::2014-11-18 18:22:48 	10523.00000000
+(10.66821589%) 	10523.00000000::(10.66821589%)
+2 	F651UDZb7rKyJFFRcidtHSfmtxxpAbLUSN 	2014-10-29 13:13:25::2014-11-18 20:14:45 	6209.00000000
+(6.29468331%) 	16732.00000000::(16.96289921%)
+3 	F9kur5AnVEHR9j3SADPMvA8NcGgvXCi6uX 	2015-03-29 11:12:30::2017-08-10 03:39:40 	5910.66446962
+(5.99223079%) 	22642.66446962::(22.95513000%)
+4 	FHLKQVfVhJeVE4aKPSzxj5pvvwTxcEfrGJ 	2014-10-29 13:13:25::2014-11-18 20:14:45 	5731.00000000
+(5.81008698%) 	28373.66446962::(28.76521699%)
+5 	FGdaaQqU52EZ3Vs8JWe9cVTikvU6Grue8s 	2014-09-30 16:57:23::2015-02-20 17:29:01 	5017.04245317
+(5.08627692%) 	33390.70692279::(33.85149391%)
+6 	F5w8wFCjrEfSMhZxntt3tDrfj91KE28ZUZ 	2014-10-29 13:13:25::2014-11-18 20:32:47 	4920.00000000
+(4.98789529%) 	38310.70692279::(38.83938921%)
+7 	FUjEmg3A2D8DRWztHbQYzuua8pBUx4rX5h 	2014-11-13 21:37:08::2014-11-18 20:32:47 	3482.00000000
+(3.53005110%) 	41792.70692279::(42.36944031%)
+8 	F6F5K93mzf6m91MjzBVo6DJNYmMgkccQPj 	2014-11-30 21:13:18::2014-12-03 20:49:08 	3047.00000000
+(3.08904816%) 	44839.70692279::(45.45848848%)
+9 	FTDnueM6THmtkn14sA69sas8viPdizWBkh 	2016-03-25 01:17:21::2017-08-10 01:35:08 	2864.97058729
+(2.90450677%) 	47704.67751008::(48.36299525%)
+10 	FCitksj1vvcQFrLaft5tkQePeyEAScEHX2 	2016-11-16 15:23:02::2017-08-09 18:44:55 	2476.12358600
+(2.51029373%) 	50180.80109608::(50.87328899%)
+11 	FAhZw9SXHji3Q5bskUaTV122kSHbNznF4N 	2014-10-16 13:51:52::2014-11-19 10:34:40 	2473.00000000
+(2.50712704%) 	52653.80109608::(53.38041603%)
+12 	F8abZRvpugicpNGnwMqbA3CxjYtL6rdAB9 	2015-02-17 23:05:09::2017-06-13 17:00:04 	1530.52879808
+(1.55164987%) 	54184.32989416::(54.93206591%)
+13 	FSmp14wKXWAMvdLUz3Uz2eGJwNwtiHePVH 	2014-10-29 00:22:24::2014-11-19 15:25:32 	1280.10000000
+(1.29776519%) 	55464.42989416::(56.22983111%)
+14 	FPxVaFtLRB4su6gQrYkr2v1VLvYu54wqCa 	2014-07-27 12:40:58::2015-02-28 14:20:41 	1227.28070080
+(1.24421699%) 	56691.71059496::(57.47404811%)
+15 	F7WdVg31ZYE3FwALP2o9P2jPUhnPH8TSTG 	2016-10-11 15:14:08::2017-08-10 03:42:27 	1202.05188166
+(1.21864002%) 	57893.76247662::(58.69268813%)
+16 	FG4net7GeMySvAK5cpCfs4iaykgSXzTvLW 	2014-06-29 03:33:23::2014-07-12 13:14:29 	1200.00008000
+(1.21655990%) 	59093.76255662::(59.90924804%)
+17 	FEe5tEZtxtheLEUpRixT8FMMc5yffG5J8t 	2014-10-16 06:42:07::2014-11-27 08:31:41 	1000.00014000
+(1.01379999%) 	60093.76269662::(60.92304804%)
+18 	F68knR4x47Hz8XKz9JCja9QDezrDrZErNv 	2016-11-16 15:45:17::2016-11-16 15:45:17 	1000.00000000
+(1.01379985%) 	61093.76269662::(61.93684790%)
+19 	FS5E6rMFiAZokdsg3Y92XvtQUekUwCcCN9 	2014-10-20 22:46:59::2017-08-05 10:14:13 	992.57878785
+(1.00627623%) 	62086.34148447::(62.94312413%)
+20 	FTtTpEUwyweTdrvzHEiUZfiEpiM518pYm9 	2014-06-29 06:03:22::2014-11-20 15:29:53 	925.00000000
+(0.93776487%) 	63011.34148447::(63.88088900%)
+21 	FTtjyJ32HhvqXULBrD5G44SmLJZAiHgK3A 	2014-07-13 12:22:01::2015-04-09 18:20:34 	889.50547500
+(0.90178052%) 	63900.84695947::(64.78266953%)
+22 	F8hCrQbBZRSv9gDJHfB9mTDZnACCdABUHg 	2015-03-13 02:56:35::2017-08-09 21:21:02 	800.57865618
+(0.81162653%) 	64701.42561565::(65.59429605%)
+23 	FDMqtfENta5SnmZtEwRCduiPGgfbvPgGbS 	2014-07-09 10:04:42::2014-11-22 23:38:44 	790.00000000
+(0.80090189%) 	65491.42561565::(66.39519794%)
+24 	FNZvx1XAQPBsvbTP8teNZ3g4ESzXQc2gon 	2015-03-01 16:42:10::2017-08-05 10:19:18 	782.16990898
+(0.79296374%) 	66273.59552463::(67.18816168%)
+25 	FKnqnpQabmrGsuGGjqDkNyEocD7VdDEKne 	2017-06-10 11:25:19::2017-08-10 03:41:54 	780.03994864
+(0.79080439%) 	67053.63547327::(67.97896607%)[/center]
 [hr]
 [hr]
 [center]
@@ -261,3 +266,4 @@ Chinese  <>  Spanish  <>  Italian  <>  Portuguese  <>  Russian #1 <> Russian #2
 
 Thanks again fairglu, Firecoin (FIRE) Premium Expired on: 2016-10-19
 [/center]
+[/quote]
