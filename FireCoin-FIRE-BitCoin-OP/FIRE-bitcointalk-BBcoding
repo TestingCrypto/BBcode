@@ -1,6 +1,6 @@
 [quote author=FIRE-community link=topic=972809.msg10621398#msg10621398 date=1425224171]
 [center]
-[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Tuesday, February 13, 2018 ~~
+[size=10pt][b][font=Verdana, Arial][color=#B43104]~~ Most recent edit made: Monday, June 11 , 2018 ~~
 **Rebuilding FIRE one branch @ a time, help keep FIRE stable & innovative**
 - FIRE v4.0.1.0 Release (updated graphics, with the idea for a real graphics update)
 
@@ -24,13 +24,6 @@ Max Coins: ~150,000
 [u]System Requirements:[/u]
 >200MB disk space | RAM/memory
 (this will very as the chain grows)
-[u]4.0.0.1 deps:[/u]
-mgw48-mt-s-1_55
-boost_1_55_0
-db-4.8.30.NC
-openssl-1.0.1l 15 Jan 2015
-libpng-1.6.12
-qrencode-3.4.3
 
 [hr]
 [hr]
@@ -61,16 +54,18 @@ rpcport=49698
 port=49697
 maxconnections=100
 rpcallowip=127.0.0.1
-addnode=50.83.4.208
+addnode=78.46.92.72
+addnode=50.83.11.14
+addnode=213.230.76.68
+addnode=162.220.166.125
 addnode=188.113.196.252
 addnode=104.236.167.70
-addnode=162.220.166.125
 addnode=182.55.186.7
 [/code]
 rescan=1  //helps sync from new wallet swap, you might have to restart it @ 4000, 4500, 5000 blocks
 rpcport=49698  //mining
 port=49697  //p2p
-maxconnections=10  //max amont of node connections to allow
+maxconnections=32  //max amont of node connections to allow
 rpcallowip=127.0.0.1  //allows the rpc port to be set
 addnode=1.1.1.1:49697  //connecting any & all peers
 connect=1.1.1.1:49697 //only allowing certain peers
@@ -101,9 +96,9 @@ Total Addresses:    14468
  [table][tr][td]
  [/td]
  [td]
-[b][i][u][size=12pt][color=#B43104]        Exchanges        [/color][/size][/u][/i][/b]
+[b][i][u][size=12pt][color=#B43104]                             Exchanges                             [/color][/size][/u][/i][/b]
 
-[center][url=https://yobit.net/en/trade/FIRE/BTC]YoBit.net[/url][/center]
+[center][url=https://yobit.net/en/trade/FIRE/BTC]BTC[/url]  ||||||||||  [url=https://yobit.net/en/trade/FIRE/ETH/]ETH[/url]  ||||||||||  [url=https://yobit.net/en/trade/FIRE/DOGE/]DOGE[/url]  ||||||||||  [url=https://yobit.net/en/trade/FIRE/USD/]USD[/url][/center]
  [/td]
  [td]
 [b][i][u][size=12pt][color=#B43104]        Market Capitalization        [/color][/size][/u][/i][/b]
@@ -125,27 +120,15 @@ Total Addresses:    14468
  [/td]
  [td]
 [b][i][u][size=12pt][color=#B43104]        Faucets        [/color][/size][/u][/i][/b]
-[center][url=http://cryptoguru.tk/Faucet/index.php?Currency=FIRE]Cryptoguru.tk[/url]
+
  [/td][/tr][/table]
 [/center]
 [hr]
 [center]
 [b][i][u][size=14pt][color=#B43104]     Community Development Funds | Tips | Donations    [/color][/size][/u][/i][/b]
-BTC: 1HRAGE69X6qGWmsC1b91c81v5srDzVkAWw  |  FIRE: FB6Ws7GTBvMQcEoFz6zSTMYFQyEtm3aiPf
-[table][tr][td]
- [/td]
- [td]
-[center][url=http://cryptoguru.tk/CurrencyList/index.php?Currency=FIRE][color=#0080FF][b][u]          Cryptoguru          [/u][/b][/color][/url]
 
-[url=http://cryptoguru.tk/CurrencyInfo/index.php?Currency=FIRE][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
- [/td]
- [td]
-[center][url=https://www.blocktrail.com/BTC/address/18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa][color=#B43104][b][u]                    BlockTrail                    [/u][/b][/color][/url]
+BTC: 1HRAGE69X6qGWmsC1b91c81v5srDzVkAWw  |  FIRE: FJhdEYYQzwYm5DwttdG1XUZs5pVjmeGzzW
 
-[url=https://www.blocktrail.com/BTC/address/18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa][color=#B43104][b]          [btc]  18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa          [/b][/color][/url][/center]
-[/td][/tr][/table]
-
-Thanks again GrinZ, Firecoin (FIRE) Premium Expires on: 2017-07-15 00:31:53
 [/center]
 [hr]
 [center]
@@ -265,5 +248,21 @@ Chinese  <>  Spanish  <>  Italian  <>  Portuguese  <>  Russian #1 <> Russian #2
 [/td][/tr][/table]
 
 Thanks again fairglu, Firecoin (FIRE) Premium Expired on: 2016-10-19
+[/center]
+[center]
+[table][tr][td]
+ [/td]
+ [td]
+[center][url=http://cryptoguru.tk/CurrencyList/index.php?Currency=FIRE][color=#0080FF][b][u]          Cryptoguru          [/u][/b][/color][/url]
+
+[url=http://cryptoguru.tk/CurrencyInfo/index.php?Currency=FIRE][color=#B43104][b]          Firecoin (FIRE)          [/b][/color][/url][/center]
+ [/td]
+ [td]
+[center][url=https://www.blocktrail.com/BTC/address/18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa][color=#B43104][b][u]                    BlockTrail                    [/u][/b][/color][/url]
+
+[url=https://www.blocktrail.com/BTC/address/18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa][color=#B43104][b]          [btc]  18bFfs7i5PcUnoHT5TpGUAb35WwxCCYHQa          [/b][/color][/url][/center]
+[/td][/tr][/table]
+
+Thanks again GrinZ, Firecoin (FIRE) Premium Expires on: 2017-07-15 00:31:53
 [/center]
 [/quote]
