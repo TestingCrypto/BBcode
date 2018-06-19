@@ -1,7 +1,7 @@
 [quote author=TechcoinCommunity link=topic=794069.msg8943371#msg8943371 date=1411498611]
 [center]
 [anchor=op_intro]
-[b][color=#0404B4]Most recent original post edit made: Friday, March 9, 2018
+[b][color=#0404B4]Most recent original post edit made: Friday, June 12, 2018
 [url=http://bit.ly/2s3sfor][img]http://oi57.tinypic.com/2i2acgl.jpg[/img][/url]
 [/center]
 [hr]
@@ -16,20 +16,11 @@
 
 Abbreviation: TECH
 RPC Port: 57698 P2P Port: 57697
-X13 (marucoin algo) PoW: 186,985 TECH ending @ block 5000
+X13 PoW: 186,985 TECH ending @ block 5000
 PoS Minimum Stake Age: 1 Hour (12 Blocks)
 PoS @ Block 5000 / PoS Annual Interest 4%
 Max Coins: 300,000 TECH (after 12-13 years)
-[b][u]System Requirements:[/u][/b]
->200MB disk space | >180MB RAM/memory
-(this will very as the chain + nodes build)
-[b][u]1.2 | 1.1.4.1 deps:[/u][/b]
-mgw48-mt-s-1_55
-boost_1_55_0
-db-4.8.30.NC
-openssl-1.0.1j  15 Oct 2014
-libpng-1.6.12
-qrencode-3.4.3
+
 [/center]
 [hr]
 [center]
@@ -40,7 +31,7 @@ qrencode-3.4.3
 [center]
 [u][b][font=Verdana, Arial][size=14pt]TECH Timeline[/size][/font][/b][/u]
 
-1 ) LAUNCHED: Tues, June 24th, 2014
+1 ) LAUNCHED: Tues, June 24th, 2014 {05:06:55}
 2 ) ABANDONED: Sun, June 29th, 2014
 3 ) Community buyout: Sat, July 19th, 2014
 4 ) Wallet Development: Sun, July 20th, 2014
@@ -148,10 +139,25 @@ qrencode-3.4.3
 [hr]
 [anchor=op_marketcapitalization]
 [center]
-[u][b][font=Verdana, Arial][size=14pt]Market Capitalization[/size][/font][/b][/u]
+[u][b][font=Verdana, Arial][size=14pt]Research Sites[/size][/font][/b][/u]
 
-[b]WorldCoinIndex                [color=red]CoinMarketCap[/color][/b]
-[url=http://worldcoinindex.com/coin/Techcoin][IMG]http://oi60.tinypic.com/195og0.jpg[/img][/url][url=http://coinmarketcap.com/currencies/techcoin/][IMG]http://oi60.tinypic.com/195og0.jpg[/img][/url]
+   [table][tr][td]
+   [/td]
+   [td]
+[u][b][font=Verdana, Arial][size=10pt][url=https://www.cryptocompare.com/coins/tech/overview]CryptoCompare[/url][/size][/font][/b][/u][img height=20 width=20]https://i.imgur.com/piUdSmO.png[/img]
+   [/td]
+   [td]
+[u][b][font=Verdana, Arial][size=10pt][url=https://coinranking.com/coin/techcoin-tech]Coinranking[/url][/size][/font][/b][/u][img height=20 width=20]https://i.imgur.com/piUdSmO.png[/img]
+   [/td]
+   [td]
+[u][b][font=Verdana, Arial][size=10pt][url=https://www.worldcoinindex.com/coin/Techcoin]WorldCoinIndex[/url][/size][/font][/b][/u][img height=20 width=20]https://i.imgur.com/piUdSmO.png[/img]
+   [/td]
+   [td]
+[u][b][font=Verdana, Arial][size=10pt][url=https://coinmarketcap.com/currencies/techcoin/]CoinMarketCap[/url][/size][/font][/b][/u][img height=20 width=20]https://i.imgur.com/piUdSmO.png[/img]
+   [/td]
+   [td]
+
+   [/td][/tr][/table]
 [/center]
 [hr]
 [center]
@@ -162,7 +168,7 @@ qrencode-3.4.3
 [center]
 [u][b][font=Verdana, Arial][size=14pt]Current Community Stake Pledges | Tips | Donations:[/size][/font][/b][/u]
 
-BTC: 1HRAGE69X6qGWmsC1b91c81v5srDzVkAWw  |  TECH: TSAtJF8x4uEZQYaWeNX4R4AW58XSXyNsJD
+BTC: 1HRAGE69X6qGWmsC1b91c81v5srDzVkAWw  |  TECH: TYUtR4wtHQgyNr9tH1KrusvNsXEM7TxUUa
 [/center]
 [hr]
 [center]
