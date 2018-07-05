@@ -1,0 +1,287 @@
+[quote author=MicroGuy link=topic=317568.msg3405233#msg3405233 date=1382650671]
+[center][anchor=op_info]
+[u][b][size=14pt]     [color=#AF7817]General Goldcoin [GLD] Information:[/color]     [/size][/b][/u]
+
+[center]| [iurl=#op_info]Information[/iurl] | [iurl=#op_specs]Technical Specifications[/iurl] | [iurl=#op_start]Get Started[/iurl] | [iurl=#op_sites]Official Sites[/iurl] | [iurl=#op_dev]Development Channels[/iurl] | [iurl=#op_media]Social Media[/iurl] |
+| [iurl=#op_explorers]Block Explorers[/iurl] | [iurl=#op_mining]Mining[/iurl] | [iurl=#op_exchanges]Exchanges[/iurl] | [iurl=#op_rti]Research Tools & Indexes[/iurl] | [iurl=#op_news]GoldCoin News[/iurl] | [iurl=#op_bounties]Bounty Listing[/iurl] |[/center]
+
+[hr]
+
+This is the official GoldCoin information thread of Bitcointalk.
+
+[img]https://www.goldcointalk.org/devteam/logo_final.png[/img]
+
+[b]What is Goldcoin?[/b]
+
+[size=14pt][b]"GoldCoin is [url=http://www.investopedia.com/terms/h/hardmoney.asp]hard money[/url]. A super secure value store and cash payment system for the new digital World."[/b][/size]
+
+Click the video below to learn more about this innovative digital currency:
+
+[url=http://www.youtube.com/watch?v=0ul5JtYVXpg][img]https://www.goldcointalk.org/devteam/goldcoinvideo.png[/img][/url]
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_specs][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[img]https://i.imgur.com/KLcMhK8.png[/img]
+
+[b][u][size=14pt]          [color=#AF7817]Technical Specifications:[/color]          [/size][/u][/b]
+   [table][tr][td]
+   [/td]
+   [td]
+[center]
+2.0 minute block targets
+
+Block rewards in order:
+Blocks 1 – 200 = 10,000 GLD
+Blocks 201 – 2,200 = 1,000 GLD
+Blocks 2,201 – 44,999 = 500 GLD
+Block 45,000 reward drops to 45 GLD
+Block xxx,xxx reward drops to 32 GLD
+Block 372,000 reward drops to 4 GLD
+Reward is then reduced each year using the following formula:
+50 divided by (1.1 + 0.49*every year thereafter)
+
+Total Premine: Zero (0)
+Total Blocks: 21,441,000 (needs update)
+
+[b]Total Coins Produced: 72,245,700[/b]
+
+The default ports are 8121 (connect) and 8122 (fson rpc)
+[/center]
+   [/td]
+   [td]
+[b]   What makes Goldcoin different?[/b]
+
+[list]
+[li]No SegWit. We think Satoshi's protocol should remain contaminate free.[/li]
+[li]Committed to on-chain scaling. 2MB blocks in place.[/li]
+[li]A great name meaning "value" to billions of people Worldwide.[/li]
+[li]Unique and innovative 51% attack defense system.[/li]
+[li]A genuinely unique coin not just another litecoin clone.[/li]
+[li]Newly developed difficulty algorithm "Golden River."[/li]
+[li]10X greater network capacity than Bitcoin and 5X faster![/li]
+[li]Total number of coins to be mined 72,245,700.[/li]
+[li]Faster transactions than LTC and BTC - 2 minutes.[/li]
+[li]Faster difficulty adjustment time - each block.[/li]
+[li]Coin generation rules modeled after physical gold.[/li]
+[li]Gradual reduction in block reward creating diminishing coin supply.[/li]
+[li]Block reward rules that finally cap supply after 100 years of mining.[/li]
+[/list]
+
+   [/td][/tr][/table]
+
+[b]Mission Statement:[/b]
+Our mission is to create a physical gold replacement by completing the vision of Satoshi and establishing the ultimate digital commodity. Our 51% attack defense and Golden River difficulty algorithm give us the strongest most robust blockchain in all of cryptocurrency.
+
+While our competitors are focused on micro transactions and payments, our focus is on enhancing the value-storage side of the equation. We have built a practical physical gold replacement that can be used by everyone today as a digital commodity. Goldcoin truly is the gold standard of digital currency, a safe haven for value in a turbulent world.
+   
+[b]Coin Generation:[/b]
+Our generation rules condense the entire history of gold from the beginning to the end, when Earth's finite supply is finally exhausted into a scaled and practical 100-year model making them both limited finite resources.
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_start][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[img]https://i.imgur.com/LspUB1o.png[/img]
+
+[b][u][size=14pt]               [color=#AF7817]Get Started:[/color]               [/size][/u][/b]
+[center]To start using Goldcoin, you’ll need a wallet. A wallet is just like your online bank account, only your entire account is stored securely on your local computer or Android device.
+
+From your wallet you can send and receive Goldcoin, manage your address book and review a history of your transactions.
+
+Update: The Windows 0.14.2 client below has just been released. It is highly recommended that all Goldcoin users download and install this mandatory software update.[/center]
+   [table][tr][td]
+   [/td]
+   [td]
+[url=https://www.goldcoin.org/get-started/][img]https://www.goldcoin.org/images/windows.png[/img][/url]
+   [/td]
+   [td]
+[url=https://www.goldcoin.org/get-started/][img]https://www.goldcoin.org/images/mac.png[/img][/url]
+   [/td]
+   [td]
+[url=https://www.goldcoin.org/get-started/][img]https://www.goldcoin.org/images/android.png[/img][/url]
+   [/td][/tr][/table]
+   [table][tr][td]
+   [/td]
+   [td]
+[url=https://www.goldcoin.org/get-started/][img]https://www.goldcoin.org/images/linux.png[/img][/url]
+   [/td]
+   [td]
+[url=https://www.goldcoin.org/get-started/][img]https://www.goldcoin.org/images/source.png[/img][/url]
+   [/td][/tr][/table]
+
+[b][u][size=14pt]          [color=#AF7817]Paper Wallet:[/color]          [/size][/u][/b]
+[url=https://www.goldcoinwallet.com/][img height=128 width=200]https://i.imgur.com/3btuoou.png[/img][/url]
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_sites][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[img]https://i.imgur.com/vuAWpNw.png[/img]
+
+[b][u][size=14pt]               [color=#AF7817]Official Websites:[/color]               [/size][/u][/b]
+
+   [table][tr][td]
+   [/td]
+   [td]
+[url=https://www.goldcointalk.org][img]http://i.imgur.com/jJrWx4I.png[/img][/url]
+   [/td]
+   [td]
+[url=https://www.goldcoin.org][img]https://www.goldcoin.org/wp-content/themes/hyperion/images/logo.png[/img][/url]
+   [/td][/tr][/table]
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_dev][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[img]https://i.imgur.com/x5PKxCY.png[/img]
+
+[b][u][size=14pt]          [color=#AF7817]Development Channels:[/color]          [/size][/u][/b]
+
+[url=http://coinwik.org/GoldCoin][img height=100 width=100]http://i59.tinypic.com/35ini9d.jpg[/img][/url]          [url=https://trello.com/b/s0hEvXYH/current-goals][img height=100 width=100]https://i.imgur.com/opB1jh1.png[/img][/url]          [url=https://goldcoinproject.slack.com][img height=100 width=100]https://status.slack.com/img/allgood.png[/img][/url]
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_media][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[img]https://i.imgur.com/lLXnuZn.png[/img]
+
+[b][u][size=14pt]          [color=#AF7817]Social Media:[/color]          [/size][/u][/b]
+   [table][tr][td]
+   [/td]
+   [td]
+[center][url=https://www.facebook.com/groups/goldcointalk/][img]https://i.imgur.com/qeaAn2v.png[/img][/url][/center]
+   [/td]
+   [td]
+[center][url=https://www.facebook.com/groups/goldcointalk/][img]https://i.imgur.com/3wy5qVW.png[/img][/url][/center]
+   [/td]
+   [td]
+[center][url=http://www.reddit.com/r/goldcoin][img]https://i.imgur.com/c45uXp7.png[/img][/url][/center]
+   [/td]
+   [td]
+[center][url=https://twitter.com/goldcoin][img]https://i.imgur.com/RJZpu77.png[/img][/url][/center]
+   [/td][/tr][/table]
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_explorers][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[img]https://i.imgur.com/eKogMv4.png[/img]
+
+[b][u][size=14pt]          [color=#AF7817]Block Explorers:[/color]          [/size][/u][/b]
+
+[url=https://chainz.cryptoid.info/gld/][img height=64 width=288]https://chainz.cryptoid.info/theme/cryptoID64.png[/img][/url]
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_mining][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[IMG]https://i.imgur.com/5oyh8n3.png[/img]
+
+   [table][tr][td]
+   [/td]
+   [td]
+[b][u][size=14pt]     [color=#AF7817]Mining Pools:[/color]     [/size][/u][/b]
+
+[url=https://multipool.coinpool.ml/][size=12pt][b]CoinPool.ML[/b][/size][/url]
+
+[url=http://inetrader.com:8221/static/][size=12pt][b]inetrader P2P pool[/b][/size][/url]
+
+[url=https://hash-to-coins.com/][size=12pt][b]Hash-to-Coins[/b][/size][/url]
+
+[url=http://scrypt.ispace.co.uk/coindetails/?coin=gld&id=9][size=12pt][b]iSpace[/b][/size][/url]
+
+[url=http://zergpool.com/][size=12pt][b]ZergPool[/b][/size][/url]
+
+   [/td]
+   [td]
+[b][u][size=14pt]  [color=#AF7817]Mining Rentals:[/color]  [/size][/u][/b]
+
+[center][url=https://www.nicehash.com/][b][size=12pt]Nice Hash[/size][/b][/url]
+
+[url=https://www.miningrigrentals.com/][b][size=12pt]Mining Rig Rentals[/size][/b][/url]
+
+[b][u][size=14pt]  [color=#AF7817]Mining Guides:[/color]  [/size][/u][/b]
+
+[center][url=https://bitcointalk.org/index.php?topic=28402.msg357369#msg357369][size=12pt][b]CGminer[/b][/size][/url]
+
+[url=https://bitcointalk.org/index.php?topic=632503.msg7042132#msg7042132][size=12pt][b]SGminer[/b][/size][/url]
+
+[url=https://bitcointalk.org/index.php?topic=877081.msg9686533#msg9686533][size=12pt][b]BFGminer[/b][/size][/url][/center]
+   [/td][/tr][/table]
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_exchanges][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[img]https://i.imgur.com/aqEPfDq.png[/img]
+
+[b][u][size=14pt]          [color=#AF7817]Exchanges:[/color]          [/size][/u][/b]
+
+[url=https://bittrex.com/Market/Index?MarketName=BTC-GLD][img]https://www.goldcointalk.org/devteam/bittrex-logo-white-no-tagline.png[/img][/url]
+
+[url=https://www.cryptopia.co.nz/Exchange?market=GLD_BTC][img]https://www.cryptopia.co.nz/Content/Images/Cryptopia2.png[/img][/url]
+
+[url=https://tradesatoshi.com/Exchange?market=GLD_BTC][img]https://www.goldcointalk.org/devteam/tradesatoshi300.jpg[/img][/url]
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_rti][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[img]https://i.imgur.com/LPVE6T5.png[/img]
+
+[b][u][size=14pt]          [color=#AF7817]Research Tools & Indexes:[/color]          [/size][/u][/b]
+
+   [table][tr][td]
+   [/td]
+   [td]
+[url=http://www.worldcoinindex.com/coin/GoldCoin]World Coin Index            [/url]
+
+[url=http://www.cryptocoinrank.com/Goldcoin]Crypto Coin Rank[/url]
+
+[url=http://coinmarketcap.com/currencies/goldcoin/]Coin Market Cap[/url]
+
+[url=https://www.cryptocompare.com/coins/gld/overview/BTC]Crypto Compare[/url]
+   [/td]
+   [td]
+[url=https://www.coingecko.com/en/coins/goldcoin]Coin Gecko            [/url]
+
+[url=http://bravenewcoin.com/goldcoin/]Brave New Coin[/url]
+
+[url=http://cryptocoin.cc/table.php?cryptocoin=goldcoin]Crypto Coin[/url]
+
+[url=http://www.coinwarz.com/cryptocurrency/coins/goldcoin]Coin Warz[/url]
+   [/td]
+   [td]
+[url=https://cryptrader.com/charts/cryptsy/gld/btc]Crypt Trader            [/url]
+
+[url=http://coincap.io/#/coin/gld]CoinCap[/url]
+
+[url=http://www.coinfinance.com/currencies/GLD-GoldCoin]Coin Finance[/url]
+
+[url=https://cyber.fund/system/GoldCoin]Cyber*Fund[/url]
+   [/td][/tr][/table]
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_news][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[img]https://i.imgur.com/yvkgZIr.png[/img]
+
+[b][u][size=14pt]          [color=#AF7817]News Reports:[/color]          [/size][/u][/b]
+
+[url=https://cointelegraph.com/news/bitcoin-price-growth-lifts-some-altcoins-along]2017-01-18 ~ Bitcoin Price Growth Lifts Some Altcoins Along[/url]
+[url=http://crypt.la/2014/12/16/future-goldcoin-altcoins-general/]2014-04-08 ~ Goldcoin Developer to Put Multiple Coins Into a Single Wallet[/url]
+[url=http://crypt.la/2014/12/16/future-goldcoin-altcoins-general/]2014-10-08 ~ Goldcoin Scientist Set to Release Mysterious Java Client[/url]
+[url=http://crypt.la/2014/12/16/future-goldcoin-altcoins-general/]2014-10-18 ~ South African Businessman to Host Goldcoin Conference Series[/url]
+[url=http://crypt.la/2014/12/16/future-goldcoin-altcoins-general/]2014-12-16 ~ The future of Goldcoin (and altcoins in general)[/url]
+[url=http://crypt.la/2014/12/16/future-goldcoin-altcoins-general/]2014-11-19 ~ The Currency Most Likely to Challenge Bitcoin for Consumer Adoption[/url]
+[url=http://crypt.la/2014/12/16/future-goldcoin-altcoins-general/]2015-05-09 ~ Goldcoin (GLD) Considers Network Fee to Boost Community Participation[/url]
+[url=http://altcoinpress.com/2015/07/goldcoin-invention-promises-to-give-altcoin-strip-miners-the-hose/]2015-07-08 ~ Goldcoin Invention Promises to ‘Hose Off’ Strip Mining Crypto Pirates[/url]
+
+[right][iurl=#op_footer][img height=24 width=24]https://i.imgur.com/yces5nG.png[/img][/iurl][/right]
+[hr]
+[anchor=op_bounties][left][iurl=#op_info][img height=24 width=24]https://i.imgur.com/yeieFvN.png[/img][/iurl][/left]
+[img]https://i.imgur.com/fHP76RQ.png[/img]
+
+[b][u][size=14pt]          [color=#AF7817]Bounty Listing:[/color]          [/size][/u][/b]
+
+[url=https://www.goldcointalk.org/index.php?topic=3204.msg14154#msg14154][img]https://i.imgur.com/uBD3IQK.png[/img][/url]
+
+[hr][anchor=op_footer]
+[center]| [iurl=#op_info]Information[/iurl] | [iurl=#op_specs]Technical Specifications[/iurl] | [iurl=#op_start]Get Started[/iurl] | [iurl=#op_sites]Official Sites[/iurl] | [iurl=#op_dev]Development Channels[/iurl] | [iurl=#op_media]Social Media[/iurl] |
+| [iurl=#op_explorers]Block Explorers[/iurl] | [iurl=#op_mining]Mining[/iurl] | [iurl=#op_exchanges]Exchanges[/iurl] | [iurl=#op_rti]Research Tools & Indexes[/iurl] | [iurl=#op_news]GoldCoin News[/iurl] | [iurl=#op_bounties]Bounty Listing[/iurl] |
+[url=https://www.goldcoin.org/][IMG height=32 width=64]https://www.goldcoin.org/wp-content/themes/hyperion/images/logo2.png[/img][/url][/center]
+
+[/quote]
