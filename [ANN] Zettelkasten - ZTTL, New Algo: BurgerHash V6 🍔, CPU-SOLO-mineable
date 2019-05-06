@@ -12,8 +12,6 @@
 
 [b]Zettelkasten[/b]
 
-
-
 Abbreviation: ZETTEL 
 Ticker: ZTTL
 
@@ -31,17 +29,22 @@ RPC-Port: 51338
 
 
 
-BurgerHash V4 ------------------------ BurgerHash V3 ------------------ BurgerHash V2 ------------------------ BurgerHash V1
-
-[url=https://i.imgur.com/XHwMydK.png][img height=200 width=200]https://i.imgur.com/XHwMydK.png[/img][/url][url=https://i.imgur.com/vfdgxeG.png][img height=200 width=200]https://i.imgur.com/vfdgxeG.png[/img][/url][url=https://i.imgur.com/s4sfNyg.png][img height=200 width=200]https://i.imgur.com/s4sfNyg.png[/img][/url][url=https://i.imgur.com/f2Jp6Sv.png][img height=200 width=200]https://i.imgur.com/f2Jp6Sv.png[/img][/url]
+[img]https://i.imgur.com/XHwMydK.png[/img]
 
 
 
+[img]https://i.imgur.com/vfdgxeG.png[/img]
+
+
+
+[img]https://i.imgur.com/s4sfNyg.png[/img]
+
+
+
+[img]https://i.imgur.com/f2Jp6Sv.png[/img]
 
 
 [anchor=op_wallets]
-
-
 [b]Github:[/b] 
 
 https://github.com/zettel-kasten/zettelkasten
@@ -64,7 +67,6 @@ or from official website:
 https://www.zettelkasten.org/downloads/bootstrap.zip
 
 [anchor=op_blockexplorers]
-
 [b]Blockexplorer:[/b]
 
 http://zettel.dashnetwork.info/
@@ -73,10 +75,7 @@ http://zettel.dashnetwork.info/
 http://zettel.hashpool.eu/
 (created/hosted by [url=https://bitcointalk.org/index.php?action=profile;u=2095547]Hashpool.eu[/url])
 
-
 [anchor=op_socialmedia]
-
-
 [b]Forum:[/b]
 
 https://zetteltalk.org
@@ -97,7 +96,6 @@ https://discord.gg/Ef7x2qA
 http://twitter.com/zettelcrypto
 
 [anchor=op_exchanges]
-
 [b]Exchanges:[/b]
 
 [table]
@@ -153,12 +151,6 @@ http://twitter.com/zettelcrypto
 [/tr]
 [/table]
 
-
-
-
-
-
-
 [size=8pt](for OTC trading (escrow) ask user [b][color=green]zettelkasten[/color][/b] (green color, ID=434687929663619072) on discord)[/size]
 
 
@@ -200,16 +192,12 @@ HJb8+xVHp+ImAOmXleIrXW3Cfg48TnR//6L7jHHKg8u8Qd8/AvR/rK3qxwqN9/BHuNozO/bbhHdBuhxj
 (used for discord)
 [/code]
 
-
 [anchor=op_bounties]
-
-
 [b]Bounties:[/b]
 
 We have various open bounties (coding, designing, etc).
 please visit:
 
 https://www.zetteltalk.org/viewforum.php?f=16
-
 
 [/center]
