@@ -1,0 +1,192 @@
+[center][img]https://i.imgur.com/OKScDmv.png[/img]
+
+[b]Zettelkasten[/b]
+
+Abbreviation: ZETTEL 
+Ticker: ZTTL
+
+Total Coins: 30 Million ZETTEL
+Blocktime: 1 min
+Initial Blockreward: 10 ZETTEL
+Block halving: smoothly halved every 4 years.
+
+Port: 51339
+RPC-Port: 51338
+
+[b]Algorithm: [/b]
+
+[b]Burgerhash - a unique POW algorithm for CPU that is constantly increasing its algorithmic complexity (4 times a day) to keep ASIC, FPGA and GPU away[/b]
+
+
+
+[img]https://i.imgur.com/XHwMydK.png[/img]
+
+
+
+[img]https://i.imgur.com/vfdgxeG.png[/img]
+
+
+
+[img]https://i.imgur.com/s4sfNyg.png[/img]
+
+
+
+[img]https://i.imgur.com/f2Jp6Sv.png[/img]
+
+
+
+[b]Github:[/b] 
+
+https://github.com/zettel-kasten/zettelkasten
+
+
+Blockchain started fairly and with pre-announcement of ca 2 hours. Genesisblock at unix time: 1522187616.
+
+
+[b]Downloads Wallets:[/b]
+
+[url=https://github.com/zettel-kasten/zettelkasten/releases]Github - Releases[/url]
+
+or from official website:
+
+[url=https://zettelkasten.org/downloads.php]Zettelkasten - Downloads[/url]
+
+
+[b]Bootstrap:[/b]
+
+https://www.zettelkasten.org/downloads/bootstrap.zip
+
+
+[b]Blockexplorer:[/b]
+
+http://zettel.dashnetwork.info/
+(created/hosted by [url=https://bitcointalk.org/index.php?action=profile;u=887925]Balych[/url])
+
+http://zettel.hashpool.eu/
+(created/hosted by [url=https://bitcointalk.org/index.php?action=profile;u=2095547]Hashpool.eu[/url])
+
+[b]Forum:[/b]
+
+https://zetteltalk.org
+
+
+[b]Discord:[/b]
+
+https://discord.gg/Ef7x2qA
+
+
+[b]Slack:[/b]
+
+[url=https://join.slack.com/t/zetteltalk/shared_invite/enQtMzYxMTg4MjE2MjI2LTM5Y2U4N2NhMWI0ZjAxMWZkNDE5MDg5YmVlM2YwZWQyNmFjZTBjZTU2OTMxYmYxOTc4N2YzOTUzNjBhNDYzZjc]Invite - Link[/url]
+
+
+[b]Twitter:[/b]
+
+http://twitter.com/zettelcrypto
+
+
+[b]Exchanges:[/b]
+
+[table]
+[tr]
+[td]
+  
+  
+  
+  
+  
+  
+  
+  
+[/td]
+[td][url=https://safe.trade/trading/zttlbtc][img width=100]https://i.imgur.com/etUe240.png?1[/img][/url]
+
+[center][url=https://safe.trade/trading/zttlbtc]ZTTL / BTC[/url][/center]
+[/td]
+[td]
+  
+  
+  
+  
+  
+  
+  
+  
+[/td]
+[td][url=https://fcbaccount.com/exchange][img]https://i.imgur.com/fVoJqMh.png?1[/img][/url]
+
+[center][url=https://fcbaccount.com/exchange/BTC/ZTTL]BTC / ZTTL[/url][/center]
+[/td]
+[td]
+  
+  
+  
+  
+  
+  
+  
+  
+[/td]
+[td]
+  
+  
+  
+  
+  
+  
+  
+  
+[/td]
+[/tr]
+[/table]
+
+[size=8pt](for OTC trading (escrow) ask user [b][color=green]zettelkasten[/color][/b] (green color, ID=434687929663619072) on discord)[/size]
+
+
+
+The abbreviation is ZETTEL,
+as in "hey can I have 1000 ZETTEL please?"
+
+The software/wallet will be called ZettelKasten.
+
+I want people to use the full word ZETTEL, even as abbreviation.
+
+Zettel is german for "note" or "slip of paper".
+So in a way it makes sense to ask for some ZETTEL, it's like when you are asking for paper money.
+
+Zettelkasten is a knowledge-management-system invented by a famous german philosopher ("system theory") named https://de.wikipedia.org/wiki/Niklas_Luhmann
+He's now been dead for 20 years.
+I want to create a digital decentralized knowledge-management-system in honor of him and his system.
+
+More info soon.
+
+To all the great miners out there:
+
+Since we had a fair start please donate to address
+
+[size=14pt][b]ZetterxMoFb2crhpMgRCHkivyrbapnQpzJ[/b][/size]
+
+for development funding.
+
+Thank you.
+
+----------------------------
+Here's a list of message/signature-combinations I have previously used to publicly verify my identity using my donation address (e.g. on discord, etc).
+If you see anyone else reuse these combinations somewhere else it means that they are a scammer.
+I will only use a message/signature-combination [b]once[/b] and create a new one with every new request:
+
+[code]
+ZETTEL
+HJb8+xVHp+ImAOmXleIrXW3Cfg48TnR//6L7jHHKg8u8Qd8/AvR/rK3qxwqN9/BHuNozO/bbhHdBuhxjVknRjEs=
+(used for discord)
+[/code]
+
+
+[b]Bounties:[/b]
+
+We have various open bounties (coding, designing, etc).
+please visit:
+
+https://www.zetteltalk.org/viewforum.php?f=16
+
+[/center]
