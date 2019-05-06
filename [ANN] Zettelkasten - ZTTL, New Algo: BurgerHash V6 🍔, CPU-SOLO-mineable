@@ -52,35 +52,74 @@ https://github.com/zettel-kasten/zettelkasten
 
 Blockchain started fairly and with pre-announcement of ca 2 hours. Genesisblock at unix time: 1522187616.
 
+[b][size=12pt]Download Wallet Options:[/size][/b]
 
-[b]Downloads Wallets:[/b]
+[table]
+[tr]
+[td]
+  
 
-[url=https://github.com/zettel-kasten/zettelkasten/releases]Github - Releases[/url]
+[/td]
+[td][center][u][b]     Github releases:     [/b][/u]
 
-or from official website:
+[url=https://github.com/zettel-kasten/zettelkasten/releases]Github - Releases[/url][/center]
+[/td]
+[td][center][u][b]     or from official website:     [/b][/u]
 
-[url=https://zettelkasten.org/downloads.php]Zettelkasten - Downloads[/url]
+[url=https://zettelkasten.org/downloads.php]Zettelkasten - Downloads[/url][/center]
+[/td]
+[td]
+  
+[/td]
+[/tr]
+[/table]
 
+[center][b][u]          Bootstrap:          [/u][/b]
 
-[b]Bootstrap:[/b]
+https://www.zettelkasten.org/downloads/bootstrap.zip[/center]
 
-https://www.zettelkasten.org/downloads/bootstrap.zip
 
 [anchor=op_blockexplorers]
-[b]Blockexplorer:[/b]
+
+[table]
+[tr]
+[td]
+  
+
+[/td]
+[td][center][b][u]     Blockexplorer 1:     [/u][/b]
 
 http://zettel.dashnetwork.info/
-(created/hosted by [url=https://bitcointalk.org/index.php?action=profile;u=887925]Balych[/url])
+(created/hosted by [url=https://bitcointalk.org/index.php?action=profile;u=887925]Balych[/url])[/center]
+[/td]
+[td]
+  
+
+[/td]
+[td][center][b][u]     Blockexplorer 2:     [/u][/b]
 
 http://zettel.hashpool.eu/
-(created/hosted by [url=https://bitcointalk.org/index.php?action=profile;u=2095547]Hashpool.eu[/url])
+(created/hosted by [url=https://bitcointalk.org/index.php?action=profile;u=2095547]Hashpool.eu[/url])[/center]
+[/td]
+[td]
+  
+
+[/td]
+[td]
+  
+
+[/td]
+[/tr]
+[/table]
+
+
 
 [anchor=op_socialmedia]
 
 [table]
 [tr]
 [td]
-  
+  
 
 [/td]
 [td][center][b][u]          Forum:          [/u][/b]
@@ -88,15 +127,20 @@ http://zettel.hashpool.eu/
 https://zetteltalk.org[/center]
 [/td]
 [td]
- 
-  
+ 
+  
 [/td]
 [td][center][b][u]          Discord:          [/u][/b]
 
 https://discord.gg/Ef7x2qA[/center]
-[/td]
-[td]
 
+[/td]
+[/tr]
+[/table]
+
+[table]
+[tr]
+[td]
 
 [/td]
 [td][center][b][u]          Slack:          [/u][/b]
@@ -104,7 +148,7 @@ https://discord.gg/Ef7x2qA[/center]
 [url=https://join.slack.com/t/zetteltalk/shared_invite/enQtMzYxMTg4MjE2MjI2LTM5Y2U4N2NhMWI0ZjAxMWZkNDE5MDg5YmVlM2YwZWQyNmFjZTBjZTU2OTMxYmYxOTc4N2YzOTUzNjBhNDYzZjc]Invite - Link[/url][/center]
 [/td]
 [td]
-  
+  
 
 [/td]
 [td][center][b][u]          Twitter:          [/u][/b]
@@ -112,11 +156,11 @@ https://discord.gg/Ef7x2qA[/center]
 http://twitter.com/zettelcrypto[/center]
 [/td]
 [td]
-  
+  
 
 [/td]
 [td]
-  
+  
 
 [/td]
 [/tr]
@@ -130,7 +174,7 @@ http://twitter.com/zettelcrypto[/center]
 [table]
 [tr]
 [td]
-  
+  
 
 [/td]
 [td][url=https://safe.trade/trading/zttlbtc][img width=100]https://i.imgur.com/etUe240.png?1[/img][/url]
@@ -138,7 +182,7 @@ http://twitter.com/zettelcrypto[/center]
 [center][url=https://safe.trade/trading/zttlbtc]ZTTL / BTC[/url][/center]
 [/td]
 [td]
-  
+  
 
 [/td]
 [td][url=https://fcbaccount.com/exchange][img]https://i.imgur.com/fVoJqMh.png?1[/img][/url]
@@ -146,11 +190,11 @@ http://twitter.com/zettelcrypto[/center]
 [center][url=https://fcbaccount.com/exchange/BTC/ZTTL]BTC / ZTTL[/url][/center]
 [/td]
 [td]
-  
+  
 
 [/td]
 [td]
-  
+  
 
 [/td]
 [/tr]
